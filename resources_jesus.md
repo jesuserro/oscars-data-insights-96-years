@@ -1,0 +1,2 @@
+- https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/data
+- https://www.the-numbers.com/movie/budgets/all
