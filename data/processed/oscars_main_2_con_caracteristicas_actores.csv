@@ -1,0 +1,266 @@
+year_ceremony,ceremony,film,winner,name,edad,raza,nacionalidad
+1928,1,The Noose,False,Richard Barthelmess,,,
+1928,1,The Last Command,True,Emil Jannings,45.0,Blanca,Alemania
+1929,2,Thunderbolt,False,George Bancroft,,,
+1929,2,In Old Arizona,True,Warner Baxter,40.0,Blanca,Estados Unidos
+1929,2,Alibi,False,Chester Morris,,,
+1929,2,The Valiant,False,Paul Muni,42.0,Blanca,Estados Unidos
+1929,2,The Patriot,False,Lewis Stone,,,
+1930,3,Disraeli,True,George Arliss,,,
+1930,3,The Green Goddess,False,George Arliss,,,
+1930,3,The Big House,False,Wallace Beery,51.0,Blanca,Estados Unidos
+1930,3,The Big Pond,False,Maurice Chevalier,,,
+1930,3,Bulldog Drummond,False,Ronald Colman,52.0,Blanca,Estados Unidos
+1930,3,The Rogue Song,False,Lawrence Tibbett,,,
+1931,4,A Free Soul,True,Lionel Barrymore,53.0,Blanca,Estados Unidos
+1931,4,Skippy,False,Jackie Cooper,,,
+1931,4,Cimarron,False,Richard Dix,,,
+1931,4,The Royal Family of Broadway,False,Fredric March,37.0,Blanca,Estados Unidos
+1931,4,The Royal Family of Broadway,False,Fredric March,45.0,Blanca,Reino Unido
+1931,4,The Front Page,False,Adolphe Menjou,,,
+1932,5,The Champ,True,Wallace Beery,51.0,Blanca,Estados Unidos
+1932,5,The Guardsman,False,Alfred Lunt,,,
+1932,5,Dr. Jekyll and Mr. Hyde,True,Fredric March,37.0,Blanca,Estados Unidos
+1932,5,Dr. Jekyll and Mr. Hyde,True,Fredric March,45.0,Blanca,Reino Unido
+1933,6,Berkeley Square,False,Leslie Howard,,,
+1933,6,The Private Life of Henry VIII,True,Charles Laughton,34.0,Blanca,Reino Unido
+1933,6,I Am a Fugitive from a Chain Gang,False,Paul Muni,42.0,Blanca,Estados Unidos
+1935,7,It Happened One Night,True,Clark Gable,34.0,Blanca,Estados Unidos
+1935,7,The Affairs of Cellini,False,Frank Morgan,,,
+1935,7,The Thin Man,False,William Powell,,,
+1936,8,Mutiny on the Bounty,False,Clark Gable,34.0,Blanca,Estados Unidos
+1936,8,Mutiny on the Bounty,False,Charles Laughton,34.0,Blanca,Reino Unido
+1936,8,The Informer,True,Victor McLaglen,49.0,Blanca,Reino Unido
+1936,8,Black Fury,False,Paul Muni,42.0,Blanca,Estados Unidos
+1936,8,Mutiny on the Bounty,False,Franchot Tone,,,
+1937,9,Mr. Deeds Goes to Town,False,Gary Cooper,41.0,Blanca,Estados Unidos
+1937,9,Mr. Deeds Goes to Town,False,Gary Cooper,53.0,Blanca,Estados Unidos
+1937,9,Dodsworth,False,Walter Huston,,,
+1937,9,The Story of Louis Pasteur,True,Paul Muni,42.0,Blanca,Estados Unidos
+1937,9,My Man Godfrey,False,William Powell,,,
+1937,9,San Francisco,False,Spencer Tracy,36.0,Blanca,Estados Unidos
+1937,9,San Francisco,False,Spencer Tracy,37.0,Blanca,Estados Unidos
+1938,10,Conquest,False,Charles Boyer,,,
+1938,10,A Star Is Born,False,Fredric March,37.0,Blanca,Estados Unidos
+1938,10,A Star Is Born,False,Fredric March,45.0,Blanca,Reino Unido
+1938,10,Night Must Fall,False,Robert Montgomery,,,
+1938,10,The Life of Emile Zola,False,Paul Muni,42.0,Blanca,Estados Unidos
+1938,10,Captains Courageous,True,Spencer Tracy,36.0,Blanca,Estados Unidos
+1938,10,Captains Courageous,True,Spencer Tracy,37.0,Blanca,Estados Unidos
+1939,11,Algiers,False,Charles Boyer,,,
+1939,11,Angels with Dirty Faces,False,James Cagney,42.0,Blanca,Hungría
+1939,11,The Citadel,False,Robert Donat,33.0,Blanca,Reino Unido
+1939,11,Pygmalion,False,Leslie Howard,,,
+1939,11,Boys Town,True,Spencer Tracy,36.0,Blanca,Estados Unidos
+1939,11,Boys Town,True,Spencer Tracy,37.0,Blanca,Estados Unidos
+1940,12,"Goodbye, Mr. Chips",True,Robert Donat,33.0,Blanca,Reino Unido
+1940,12,Gone with the Wind,False,Clark Gable,34.0,Blanca,Estados Unidos
+1940,12,Wuthering Heights,False,Laurence Olivier,41.0,Hispano,Puerto Rico
+1940,12,Babes in Arms,False,Mickey Rooney,,,
+1940,12,Mr. Smith Goes to Washington,False,James Stewart,32.0,Blanca,Estados Unidos
+1941,13,The Great Dictator,False,Charles Chaplin,,,
+1941,13,The Grapes of Wrath,False,Henry Fonda,76.0,Blanca,Reino Unido
+1941,13,Abe Lincoln in Illinois,False,Raymond Massey,,,
+1941,13,Rebecca,False,Laurence Olivier,41.0,Hispano,Puerto Rico
+1941,13,The Philadelphia Story,True,James Stewart,32.0,Blanca,Estados Unidos
+1942,14,Sergeant York,True,Gary Cooper,41.0,Blanca,Estados Unidos
+1942,14,Sergeant York,True,Gary Cooper,53.0,Blanca,Estados Unidos
+1942,14,Penny Serenade,False,Cary Grant,,,
+1942,14,All That Money Can Buy,False,Walter Huston,,,
+1942,14,Here Comes Mr. Jordan,False,Robert Montgomery,,,
+1942,14,Citizen Kane,False,Orson Welles,,,
+1943,15,Yankee Doodle Dandy,True,James Cagney,42.0,Blanca,Hungría
+1943,15,Random Harvest,False,Ronald Colman,52.0,Blanca,Estados Unidos
+1943,15,The Pride of the Yankees,False,Gary Cooper,41.0,Blanca,Estados Unidos
+1943,15,The Pride of the Yankees,False,Gary Cooper,53.0,Blanca,Estados Unidos
+1943,15,Mrs. Miniver,False,Walter Pidgeon,,,
+1943,15,The Pied Piper,False,Monty Woolley,,,
+1944,16,Casablanca,False,Humphrey Bogart,54.0,Blanca,Estados Unidos
+1944,16,For Whom the Bell Tolls,False,Gary Cooper,41.0,Blanca,Estados Unidos
+1944,16,For Whom the Bell Tolls,False,Gary Cooper,53.0,Blanca,Estados Unidos
+1944,16,Watch on the Rhine,True,Paul Lukas,50.0,Blanca,Estados Unidos
+1944,16,Madame Curie,False,Walter Pidgeon,,,
+1944,16,The Human Comedy,False,Mickey Rooney,,,
+1945,17,Gaslight,False,Charles Boyer,,,
+1945,17,Going My Way,True,Bing Crosby,41.0,Blanca,Reino Unido
+1945,17,Going My Way,False,Barry Fitzgerald,,,
+1945,17,None but the Lonely Heart,False,Cary Grant,,,
+1945,17,Wilson,False,Alexander Knox,,,
+1946,18,The Bells of St. Mary's,False,Bing Crosby,41.0,Blanca,Reino Unido
+1946,18,Anchors Aweigh,False,Gene Kelly,,,
+1946,18,The Lost Weekend,True,Ray Milland,38.0,Blanca,Estados Unidos
+1946,18,The Keys of the Kingdom,False,Gregory Peck,46.0,Blanca,Estados Unidos
+1946,18,A Song to Remember,False,Cornel Wilde,,,
+1947,19,The Best Years of Our Lives,True,Fredric March,37.0,Blanca,Estados Unidos
+1947,19,The Best Years of Our Lives,True,Fredric March,45.0,Blanca,Reino Unido
+1947,19,Henry V,False,Laurence Olivier,41.0,Hispano,Puerto Rico
+1947,19,The Jolson Story,False,Larry Parks,,,
+1947,19,The Yearling,False,Gregory Peck,46.0,Blanca,Estados Unidos
+1947,19,It's a Wonderful Life,False,James Stewart,32.0,Blanca,Estados Unidos
+1948,20,A Double Life,True,Ronald Colman,52.0,Blanca,Estados Unidos
+1948,20,Body and Soul,False,John Garfield,,,
+1948,20,Gentleman's Agreement,False,Gregory Peck,46.0,Blanca,Estados Unidos
+1948,20,Life with Father,False,William Powell,,,
+1948,20,Mourning Becomes Electra,False,Michael Redgrave,,,
+1949,21,Johnny Belinda,False,Lew Ayres,,,
+1949,21,The Search,False,Montgomery Clift,,,
+1949,21,When My Baby Smiles at Me,False,Dan Dailey,,,
+1949,21,Hamlet,True,Laurence Olivier,41.0,Hispano,Puerto Rico
+1949,21,Sitting Pretty,False,Clifton Webb,,,
+1950,22,All the King's Men,True,Broderick Crawford,44.0,Blanca,Estados Unidos
+1950,22,Champion,False,Kirk Douglas,,,
+1950,22,Twelve O'Clock High,False,Gregory Peck,46.0,Blanca,Estados Unidos
+1950,22,The Hasty Heart,False,Richard Todd,,,
+1950,22,Sands of Iwo Jima,False,John Wayne,62.0,Blanca,Estados Unidos
+1951,23,The Magnificent Yankee,False,Louis Calhern,,,
+1951,23,Cyrano de Bergerac,True,José Ferrer,41.0,Blanca,Estados Unidos
+1951,23,Sunset Blvd.,False,William Holden,35.0,Blanca,Estados Unidos
+1951,23,Harvey,False,James Stewart,32.0,Blanca,Estados Unidos
+1951,23,Father of the Bride,False,Spencer Tracy,36.0,Blanca,Estados Unidos
+1951,23,Father of the Bride,False,Spencer Tracy,37.0,Blanca,Estados Unidos
+1952,24,The African Queen,True,Humphrey Bogart,54.0,Blanca,Estados Unidos
+1952,24,A Streetcar Named Desire,False,Marlon Brando,30.0,Blanca,Rusia
+1952,24,A Streetcar Named Desire,False,Marlon Brando,48.0,Blanca,Estados Unidos
+1952,24,A Place in the Sun,False,Montgomery Clift,,,
+1952,24,Bright Victory,False,Arthur Kennedy,,,
+1952,24,Death of a Salesman,False,Fredric March,37.0,Blanca,Estados Unidos
+1952,24,Death of a Salesman,False,Fredric March,45.0,Blanca,Reino Unido
+1953,25,Viva Zapata!,False,Marlon Brando,30.0,Blanca,Rusia
+1953,25,Viva Zapata!,False,Marlon Brando,48.0,Blanca,Estados Unidos
+1953,25,High Noon,True,Gary Cooper,41.0,Blanca,Estados Unidos
+1953,25,High Noon,True,Gary Cooper,53.0,Blanca,Estados Unidos
+1953,25,The Bad and the Beautiful,False,Kirk Douglas,,,
+1953,25,Moulin Rouge,False,José Ferrer,41.0,Blanca,Estados Unidos
+1953,25,The Lavender Hill Mob,False,Alec Guinness,53.0,Blanca,Estados Unidos
+1954,26,Julius Caesar,False,Marlon Brando,30.0,Blanca,Rusia
+1954,26,Julius Caesar,False,Marlon Brando,48.0,Blanca,Estados Unidos
+1954,26,The Robe,False,Richard Burton,,,
+1954,26,From Here to Eternity,False,Montgomery Clift,,,
+1954,26,Stalag 17,True,William Holden,35.0,Blanca,Estados Unidos
+1954,26,From Here to Eternity,False,Burt Lancaster,46.0,Blanca,Estados Unidos
+1955,27,The Caine Mutiny,False,Humphrey Bogart,54.0,Blanca,Estados Unidos
+1955,27,On the Waterfront,True,Marlon Brando,30.0,Blanca,Rusia
+1955,27,On the Waterfront,True,Marlon Brando,48.0,Blanca,Estados Unidos
+1955,27,The Country Girl,False,Bing Crosby,41.0,Blanca,Reino Unido
+1955,27,A Star Is Born,False,James Mason,,,
+1955,27,Adventures of Robinson Crusoe,False,Dan O'Herlihy,,,
+1956,28,Marty,True,Ernest Borgnine,42.0,Blanca,Reino Unido
+1956,28,Love Me or Leave Me,False,James Cagney,42.0,Blanca,Hungría
+1956,28,East of Eden,False,James Dean,,,
+1956,28,The Man with the Golden Arm,False,Frank Sinatra,,,
+1956,28,Bad Day at Black Rock,False,Spencer Tracy,36.0,Blanca,Estados Unidos
+1956,28,Bad Day at Black Rock,False,Spencer Tracy,37.0,Blanca,Estados Unidos
+1957,29,The King and I,True,Yul Brynner,39.0,Blanca,Reino Unido
+1957,29,Giant,False,James Dean,,,
+1957,29,Lust for Life,False,Kirk Douglas,,,
+1957,29,Giant,False,Rock Hudson,,,
+1957,29,Richard III,False,Sir Laurence Olivier,,,
+1958,30,Sayonara,False,Marlon Brando,30.0,Blanca,Rusia
+1958,30,Sayonara,False,Marlon Brando,48.0,Blanca,Estados Unidos
+1958,30,A Hatful of Rain,False,Anthony Franciosa,,,
+1958,30,The Bridge on the River Kwai,True,Alec Guinness,53.0,Blanca,Estados Unidos
+1958,30,Witness for the Prosecution,False,Charles Laughton,34.0,Blanca,Reino Unido
+1958,30,Wild Is the Wind,False,Anthony Quinn,,,
+1959,31,The Defiant Ones,False,Tony Curtis,,,
+1959,31,Cat on a Hot Tin Roof,False,Paul Newman,35.0,Blanca,Estados Unidos
+1959,31,Separate Tables,True,David Niven,49.0,Blanca,Estados Unidos
+1959,31,The Defiant Ones,False,Sidney Poitier,37.0,Blanca,Reino Unido
+1959,31,The Old Man and the Sea,False,Spencer Tracy,36.0,Blanca,Estados Unidos
+1959,31,The Old Man and the Sea,False,Spencer Tracy,37.0,Blanca,Estados Unidos
+1960,32,Room at the Top,False,Laurence Harvey,,,
+1960,32,Ben-Hur,True,Charlton Heston,36.0,Blanca,Austria
+1960,32,Some Like It Hot,False,Jack Lemmon,48.0,Blanca,Australia
+1960,32,The Last Angry Man,False,Paul Muni,42.0,Blanca,Estados Unidos
+1960,32,Anatomy of a Murder,False,James Stewart,32.0,Blanca,Estados Unidos
+1961,33,Sons and Lovers,False,Trevor Howard,,,
+1961,33,Elmer Gantry,True,Burt Lancaster,46.0,Blanca,Estados Unidos
+1961,33,The Apartment,False,Jack Lemmon,48.0,Blanca,Australia
+1961,33,The Entertainer,False,Laurence Olivier,41.0,Hispano,Puerto Rico
+1961,33,Inherit the Wind,False,Spencer Tracy,36.0,Blanca,Estados Unidos
+1961,33,Inherit the Wind,False,Spencer Tracy,37.0,Blanca,Estados Unidos
+1962,34,Fanny,False,Charles Boyer,,,
+1962,34,The Hustler,False,Paul Newman,35.0,Blanca,Estados Unidos
+1962,34,Judgment at Nuremberg,True,Maximilian Schell,41.0,Afroamericana,Estados Unidos
+1962,34,Judgment at Nuremberg,False,Spencer Tracy,36.0,Blanca,Estados Unidos
+1962,34,Judgment at Nuremberg,False,Spencer Tracy,37.0,Blanca,Estados Unidos
+1962,34,The Mark,False,Stuart Whitman,,,
+1963,35,Birdman of Alcatraz,False,Burt Lancaster,46.0,Blanca,Estados Unidos
+1963,35,Days of Wine and Roses,False,Jack Lemmon,48.0,Blanca,Australia
+1963,35,Divorce--Italian Style,False,Marcello Mastroianni,,,
+1963,35,Lawrence of Arabia,False,Peter O'Toole,,,
+1963,35,To Kill a Mockingbird,True,Gregory Peck,46.0,Blanca,Estados Unidos
+1964,36,Tom Jones,False,Albert Finney,,,
+1964,36,This Sporting Life,False,Richard Harris,,,
+1964,36,Cleopatra,False,Rex Harrison,57.0,Blanca,Estados Unidos
+1964,36,Hud,False,Paul Newman,35.0,Blanca,Estados Unidos
+1964,36,Lilies of the Field,True,Sidney Poitier,37.0,Blanca,Reino Unido
+1965,37,Becket,False,Richard Burton,,,
+1965,37,My Fair Lady,True,Rex Harrison,57.0,Blanca,Estados Unidos
+1965,37,Becket,False,Peter O'Toole,,,
+1965,37,Zorba the Greek,False,Anthony Quinn,,,
+1965,37,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,False,Peter Sellers,,,
+1966,38,The Spy Who Came In from the Cold,False,Richard Burton,,,
+1966,38,Cat Ballou,True,Lee Marvin,49.0,Blanca,Estados Unidos
+1966,38,Othello,False,Laurence Olivier,41.0,Hispano,Puerto Rico
+1966,38,The Pawnbroker,False,Rod Steiger,45.0,Blanca,Estados Unidos
+1966,38,Ship of Fools,False,Oskar Werner,,,
+1967,39,The Russians Are Coming The Russians Are Coming,False,Alan Arkin,,,
+1967,39,Who's Afraid of Virginia Woolf?,False,Richard Burton,,,
+1967,39,Alfie,False,Michael Caine,,,
+1967,39,The Sand Pebbles,False,Steve McQueen,,,
+1967,39,A Man for All Seasons,True,Paul Scofield,46.0,Blanca,Estados Unidos
+1968,40,Bonnie and Clyde,False,Warren Beatty,,,
+1968,40,The Graduate,False,Dustin Hoffman,37.0,Blanca,Estados Unidos
+1968,40,The Graduate,False,Dustin Hoffman,43.0,Blanca,Reino Unido
+1968,40,Cool Hand Luke,False,Paul Newman,35.0,Blanca,Estados Unidos
+1968,40,In the Heat of the Night,True,Rod Steiger,45.0,Blanca,Estados Unidos
+1968,40,Guess Who's Coming to Dinner,False,Spencer Tracy,36.0,Blanca,Estados Unidos
+1968,40,Guess Who's Coming to Dinner,False,Spencer Tracy,37.0,Blanca,Estados Unidos
+1969,41,The Heart Is a Lonely Hunter,False,Alan Arkin,,,
+1969,41,The Fixer,False,Alan Bates,,,
+1969,41,Oliver!,False,Ron Moody,,,
+1969,41,The Lion in Winter,False,Peter O'Toole,,,
+1969,41,Charly,True,Cliff Robertson,41.0,Blanca,Estados Unidos
+1970,42,Anne of the Thousand Days,False,Richard Burton,,,
+1970,42,Midnight Cowboy,False,Dustin Hoffman,37.0,Blanca,Estados Unidos
+1970,42,Midnight Cowboy,False,Dustin Hoffman,43.0,Blanca,Reino Unido
+1970,42,"Goodbye, Mr. Chips",False,Peter O'Toole,,,
+1970,42,Midnight Cowboy,False,Jon Voight,39.0,Blanca,Estados Unidos
+1970,42,True Grit,True,John Wayne,62.0,Blanca,Estados Unidos
+1971,43,I Never Sang for My Father,False,Melvyn Douglas,,,
+1971,43,The Great White Hope,False,James Earl Jones,,,
+1971,43,Five Easy Pieces,False,Jack Nicholson,38.0,Blanca,Estados Unidos
+1971,43,Five Easy Pieces,False,Jack Nicholson,38.0,Blanca,Estados Unidos
+1971,43,Love Story,False,Ryan O'Neal,,,
+1971,43,Patton,True,George C. Scott,43.0,Blanca,Estados Unidos
+1972,44,Sunday Bloody Sunday,False,Peter Finch,59.0,Blanca,Estados Unidos
+1972,44,The French Connection,True,Gene Hackman,41.0,Blanca,Reino Unido
+1972,44,Kotch,False,Walter Matthau,,,
+1972,44,The Hospital,False,George C. Scott,43.0,Blanca,Estados Unidos
+1972,44,Fiddler on the Roof,False,Topol,,,
+1973,45,The Godfather,True,Marlon Brando,30.0,Blanca,Rusia
+1973,45,The Godfather,True,Marlon Brando,48.0,Blanca,Estados Unidos
+1973,45,Sleuth,False,Michael Caine,,,
+1973,45,Sleuth,False,Laurence Olivier,41.0,Hispano,Puerto Rico
+1973,45,The Ruling Class,False,Peter O'Toole,,,
+1973,45,Sounder,False,Paul Winfield,,,
+1974,46,Last Tango in Paris,False,Marlon Brando,30.0,Blanca,Rusia
+1974,46,Last Tango in Paris,False,Marlon Brando,48.0,Blanca,Estados Unidos
+1974,46,Save the Tiger,True,Jack Lemmon,48.0,Blanca,Australia
+1974,46,The Last Detail,False,Jack Nicholson,38.0,Blanca,Estados Unidos
+1974,46,The Last Detail,False,Jack Nicholson,38.0,Blanca,Estados Unidos
+1974,46,Serpico,False,Al Pacino,47.0,Afroamericana,Estados Unidos
+1974,46,The Sting,False,Robert Redford,,,
+1975,47,Harry and Tonto,True,Art Carney,55.0,Blanca,Estados Unidos
+1975,47,Murder on the Orient Express,False,Albert Finney,,,
+1975,47,Lenny,False,Dustin Hoffman,37.0,Blanca,Estados Unidos
+1975,47,Lenny,False,Dustin Hoffman,43.0,Blanca,Reino Unido
+1975,47,Chinatown,False,Jack Nicholson,38.0,Blanca,Estados Unidos
+1975,47,Chinatown,False,Jack Nicholson,38.0,Blanca,Estados Unidos
+1975,47,The Godfather Part II,False,Al Pacino,47.0,Afroamericana,Estados Unidos
+1976,48,The Sunshine Boys,False,Walter Matthau,,,
+1976,48,One Flew over the Cuckoo's Nest,True,Jack Nicholson,38.0,Blanca,Estados Unidos
+1976,48,One Flew over the Cuckoo's Nest,True,Jack Nicholson,38.0,Blanca,Estados Unidos
+1976,48,Dog Day Afternoon,False,Al Pacino,47.0,Afroamericana,Estados Unidos
+1976,48,The Man in the Glass Booth,False,Maximilian Schell,41.0,Afroamericana,Estados Unidos
+1976,48,"Give 'em Hell, Harry!",False,James Whitmore,,,
