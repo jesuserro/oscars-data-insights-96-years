@@ -1,233 +1,233 @@
-year_film,year_ceremony,ceremony,category,name,film,winner
-1927,1928,1,ACTOR,Richard Barthelmess,The Noose,False
-1927,1928,1,ACTOR,Emil Jannings,The Last Command,True
-1928,1929,2,ACTOR,George Bancroft,Thunderbolt,False
-1928,1929,2,ACTOR,Warner Baxter,In Old Arizona,True
-1928,1929,2,ACTOR,Chester Morris,Alibi,False
-1928,1929,2,ACTOR,Paul Muni,The Valiant,False
-1928,1929,2,ACTOR,Lewis Stone,The Patriot,False
-1929,1930,3,ACTOR,George Arliss,Disraeli,True
-1929,1930,3,ACTOR,George Arliss,The Green Goddess,False
-1929,1930,3,ACTOR,Wallace Beery,The Big House,False
-1929,1930,3,ACTOR,Maurice Chevalier,The Big Pond,False
-1929,1930,3,ACTOR,Ronald Colman,Bulldog Drummond,False
-1929,1930,3,ACTOR,Lawrence Tibbett,The Rogue Song,False
-1930,1931,4,ACTOR,Lionel Barrymore,A Free Soul,True
-1930,1931,4,ACTOR,Jackie Cooper,Skippy,False
-1930,1931,4,ACTOR,Richard Dix,Cimarron,False
-1930,1931,4,ACTOR,Fredric March,The Royal Family of Broadway,False
-1930,1931,4,ACTOR,Adolphe Menjou,The Front Page,False
-1931,1932,5,ACTOR,Wallace Beery,The Champ,True
-1931,1932,5,ACTOR,Alfred Lunt,The Guardsman,False
-1931,1932,5,ACTOR,Fredric March,Dr. Jekyll and Mr. Hyde,True
-1932,1933,6,ACTOR,Leslie Howard,Berkeley Square,False
-1932,1933,6,ACTOR,Charles Laughton,The Private Life of Henry VIII,True
-1932,1933,6,ACTOR,Paul Muni,I Am a Fugitive from a Chain Gang,False
-1934,1935,7,ACTOR,Clark Gable,It Happened One Night,True
-1934,1935,7,ACTOR,Frank Morgan,The Affairs of Cellini,False
-1934,1935,7,ACTOR,William Powell,The Thin Man,False
-1935,1936,8,ACTOR,Clark Gable,Mutiny on the Bounty,False
-1935,1936,8,ACTOR,Charles Laughton,Mutiny on the Bounty,False
-1935,1936,8,ACTOR,Victor McLaglen,The Informer,True
-1935,1936,8,ACTOR,Paul Muni,Black Fury,False
-1935,1936,8,ACTOR,Franchot Tone,Mutiny on the Bounty,False
-1936,1937,9,ACTOR,Gary Cooper,Mr. Deeds Goes to Town,False
-1936,1937,9,ACTOR,Walter Huston,Dodsworth,False
-1936,1937,9,ACTOR,Paul Muni,The Story of Louis Pasteur,True
-1936,1937,9,ACTOR,William Powell,My Man Godfrey,False
-1936,1937,9,ACTOR,Spencer Tracy,San Francisco,False
-1937,1938,10,ACTOR,Charles Boyer,Conquest,False
-1937,1938,10,ACTOR,Fredric March,A Star Is Born,False
-1937,1938,10,ACTOR,Robert Montgomery,Night Must Fall,False
-1937,1938,10,ACTOR,Paul Muni,The Life of Emile Zola,False
-1937,1938,10,ACTOR,Spencer Tracy,Captains Courageous,True
-1938,1939,11,ACTOR,Charles Boyer,Algiers,False
-1938,1939,11,ACTOR,James Cagney,Angels with Dirty Faces,False
-1938,1939,11,ACTOR,Robert Donat,The Citadel,False
-1938,1939,11,ACTOR,Leslie Howard,Pygmalion,False
-1938,1939,11,ACTOR,Spencer Tracy,Boys Town,True
-1939,1940,12,ACTOR,Robert Donat,"Goodbye, Mr. Chips",True
-1939,1940,12,ACTOR,Clark Gable,Gone with the Wind,False
-1939,1940,12,ACTOR,Laurence Olivier,Wuthering Heights,False
-1939,1940,12,ACTOR,Mickey Rooney,Babes in Arms,False
-1939,1940,12,ACTOR,James Stewart,Mr. Smith Goes to Washington,False
-1940,1941,13,ACTOR,Charles Chaplin,The Great Dictator,False
-1940,1941,13,ACTOR,Henry Fonda,The Grapes of Wrath,False
-1940,1941,13,ACTOR,Raymond Massey,Abe Lincoln in Illinois,False
-1940,1941,13,ACTOR,Laurence Olivier,Rebecca,False
-1940,1941,13,ACTOR,James Stewart,The Philadelphia Story,True
-1941,1942,14,ACTOR,Gary Cooper,Sergeant York,True
-1941,1942,14,ACTOR,Cary Grant,Penny Serenade,False
-1941,1942,14,ACTOR,Walter Huston,All That Money Can Buy,False
-1941,1942,14,ACTOR,Robert Montgomery,Here Comes Mr. Jordan,False
-1941,1942,14,ACTOR,Orson Welles,Citizen Kane,False
-1942,1943,15,ACTOR,James Cagney,Yankee Doodle Dandy,True
-1942,1943,15,ACTOR,Ronald Colman,Random Harvest,False
-1942,1943,15,ACTOR,Gary Cooper,The Pride of the Yankees,False
-1942,1943,15,ACTOR,Walter Pidgeon,Mrs. Miniver,False
-1942,1943,15,ACTOR,Monty Woolley,The Pied Piper,False
-1943,1944,16,ACTOR,Humphrey Bogart,Casablanca,False
-1943,1944,16,ACTOR,Gary Cooper,For Whom the Bell Tolls,False
-1943,1944,16,ACTOR,Paul Lukas,Watch on the Rhine,True
-1943,1944,16,ACTOR,Walter Pidgeon,Madame Curie,False
-1943,1944,16,ACTOR,Mickey Rooney,The Human Comedy,False
-1944,1945,17,ACTOR,Charles Boyer,Gaslight,False
-1944,1945,17,ACTOR,Bing Crosby,Going My Way,True
-1944,1945,17,ACTOR,Barry Fitzgerald,Going My Way,False
-1944,1945,17,ACTOR,Cary Grant,None but the Lonely Heart,False
-1944,1945,17,ACTOR,Alexander Knox,Wilson,False
-1945,1946,18,ACTOR,Bing Crosby,The Bells of St. Mary's,False
-1945,1946,18,ACTOR,Gene Kelly,Anchors Aweigh,False
-1945,1946,18,ACTOR,Ray Milland,The Lost Weekend,True
-1945,1946,18,ACTOR,Gregory Peck,The Keys of the Kingdom,False
-1945,1946,18,ACTOR,Cornel Wilde,A Song to Remember,False
-1946,1947,19,ACTOR,Fredric March,The Best Years of Our Lives,True
-1946,1947,19,ACTOR,Laurence Olivier,Henry V,False
-1946,1947,19,ACTOR,Larry Parks,The Jolson Story,False
-1946,1947,19,ACTOR,Gregory Peck,The Yearling,False
-1946,1947,19,ACTOR,James Stewart,It's a Wonderful Life,False
-1947,1948,20,ACTOR,Ronald Colman,A Double Life,True
-1947,1948,20,ACTOR,John Garfield,Body and Soul,False
-1947,1948,20,ACTOR,Gregory Peck,Gentleman's Agreement,False
-1947,1948,20,ACTOR,William Powell,Life with Father,False
-1947,1948,20,ACTOR,Michael Redgrave,Mourning Becomes Electra,False
-1948,1949,21,ACTOR,Lew Ayres,Johnny Belinda,False
-1948,1949,21,ACTOR,Montgomery Clift,The Search,False
-1948,1949,21,ACTOR,Dan Dailey,When My Baby Smiles at Me,False
-1948,1949,21,ACTOR,Laurence Olivier,Hamlet,True
-1948,1949,21,ACTOR,Clifton Webb,Sitting Pretty,False
-1949,1950,22,ACTOR,Broderick Crawford,All the King's Men,True
-1949,1950,22,ACTOR,Kirk Douglas,Champion,False
-1949,1950,22,ACTOR,Gregory Peck,Twelve O'Clock High,False
-1949,1950,22,ACTOR,Richard Todd,The Hasty Heart,False
-1949,1950,22,ACTOR,John Wayne,Sands of Iwo Jima,False
-1950,1951,23,ACTOR,Louis Calhern,The Magnificent Yankee,False
-1950,1951,23,ACTOR,José Ferrer,Cyrano de Bergerac,True
-1950,1951,23,ACTOR,William Holden,Sunset Blvd.,False
-1950,1951,23,ACTOR,James Stewart,Harvey,False
-1950,1951,23,ACTOR,Spencer Tracy,Father of the Bride,False
-1951,1952,24,ACTOR,Humphrey Bogart,The African Queen,True
-1951,1952,24,ACTOR,Marlon Brando,A Streetcar Named Desire,False
-1951,1952,24,ACTOR,Montgomery Clift,A Place in the Sun,False
-1951,1952,24,ACTOR,Arthur Kennedy,Bright Victory,False
-1951,1952,24,ACTOR,Fredric March,Death of a Salesman,False
-1952,1953,25,ACTOR,Marlon Brando,Viva Zapata!,False
-1952,1953,25,ACTOR,Gary Cooper,High Noon,True
-1952,1953,25,ACTOR,Kirk Douglas,The Bad and the Beautiful,False
-1952,1953,25,ACTOR,José Ferrer,Moulin Rouge,False
-1952,1953,25,ACTOR,Alec Guinness,The Lavender Hill Mob,False
-1953,1954,26,ACTOR,Marlon Brando,Julius Caesar,False
-1953,1954,26,ACTOR,Richard Burton,The Robe,False
-1953,1954,26,ACTOR,Montgomery Clift,From Here to Eternity,False
-1953,1954,26,ACTOR,William Holden,Stalag 17,True
-1953,1954,26,ACTOR,Burt Lancaster,From Here to Eternity,False
-1954,1955,27,ACTOR,Humphrey Bogart,The Caine Mutiny,False
-1954,1955,27,ACTOR,Marlon Brando,On the Waterfront,True
-1954,1955,27,ACTOR,Bing Crosby,The Country Girl,False
-1954,1955,27,ACTOR,James Mason,A Star Is Born,False
-1954,1955,27,ACTOR,Dan O'Herlihy,Adventures of Robinson Crusoe,False
-1955,1956,28,ACTOR,Ernest Borgnine,Marty,True
-1955,1956,28,ACTOR,James Cagney,Love Me or Leave Me,False
-1955,1956,28,ACTOR,James Dean,East of Eden,False
-1955,1956,28,ACTOR,Frank Sinatra,The Man with the Golden Arm,False
-1955,1956,28,ACTOR,Spencer Tracy,Bad Day at Black Rock,False
-1956,1957,29,ACTOR,Yul Brynner,The King and I,True
-1956,1957,29,ACTOR,James Dean,Giant,False
-1956,1957,29,ACTOR,Kirk Douglas,Lust for Life,False
-1956,1957,29,ACTOR,Rock Hudson,Giant,False
-1956,1957,29,ACTOR,Sir Laurence Olivier,Richard III,False
-1957,1958,30,ACTOR,Marlon Brando,Sayonara,False
-1957,1958,30,ACTOR,Anthony Franciosa,A Hatful of Rain,False
-1957,1958,30,ACTOR,Alec Guinness,The Bridge on the River Kwai,True
-1957,1958,30,ACTOR,Charles Laughton,Witness for the Prosecution,False
-1957,1958,30,ACTOR,Anthony Quinn,Wild Is the Wind,False
-1958,1959,31,ACTOR,Tony Curtis,The Defiant Ones,False
-1958,1959,31,ACTOR,Paul Newman,Cat on a Hot Tin Roof,False
-1958,1959,31,ACTOR,David Niven,Separate Tables,True
-1958,1959,31,ACTOR,Sidney Poitier,The Defiant Ones,False
-1958,1959,31,ACTOR,Spencer Tracy,The Old Man and the Sea,False
-1959,1960,32,ACTOR,Laurence Harvey,Room at the Top,False
-1959,1960,32,ACTOR,Charlton Heston,Ben-Hur,True
-1959,1960,32,ACTOR,Jack Lemmon,Some Like It Hot,False
-1959,1960,32,ACTOR,Paul Muni,The Last Angry Man,False
-1959,1960,32,ACTOR,James Stewart,Anatomy of a Murder,False
-1960,1961,33,ACTOR,Trevor Howard,Sons and Lovers,False
-1960,1961,33,ACTOR,Burt Lancaster,Elmer Gantry,True
-1960,1961,33,ACTOR,Jack Lemmon,The Apartment,False
-1960,1961,33,ACTOR,Laurence Olivier,The Entertainer,False
-1960,1961,33,ACTOR,Spencer Tracy,Inherit the Wind,False
-1961,1962,34,ACTOR,Charles Boyer,Fanny,False
-1961,1962,34,ACTOR,Paul Newman,The Hustler,False
-1961,1962,34,ACTOR,Maximilian Schell,Judgment at Nuremberg,True
-1961,1962,34,ACTOR,Spencer Tracy,Judgment at Nuremberg,False
-1961,1962,34,ACTOR,Stuart Whitman,The Mark,False
-1962,1963,35,ACTOR,Burt Lancaster,Birdman of Alcatraz,False
-1962,1963,35,ACTOR,Jack Lemmon,Days of Wine and Roses,False
-1962,1963,35,ACTOR,Marcello Mastroianni,Divorce--Italian Style,False
-1962,1963,35,ACTOR,Peter O'Toole,Lawrence of Arabia,False
-1962,1963,35,ACTOR,Gregory Peck,To Kill a Mockingbird,True
-1963,1964,36,ACTOR,Albert Finney,Tom Jones,False
-1963,1964,36,ACTOR,Richard Harris,This Sporting Life,False
-1963,1964,36,ACTOR,Rex Harrison,Cleopatra,False
-1963,1964,36,ACTOR,Paul Newman,Hud,False
-1963,1964,36,ACTOR,Sidney Poitier,Lilies of the Field,True
-1964,1965,37,ACTOR,Richard Burton,Becket,False
-1964,1965,37,ACTOR,Rex Harrison,My Fair Lady,True
-1964,1965,37,ACTOR,Peter O'Toole,Becket,False
-1964,1965,37,ACTOR,Anthony Quinn,Zorba the Greek,False
-1964,1965,37,ACTOR,Peter Sellers,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,False
-1965,1966,38,ACTOR,Richard Burton,The Spy Who Came In from the Cold,False
-1965,1966,38,ACTOR,Lee Marvin,Cat Ballou,True
-1965,1966,38,ACTOR,Laurence Olivier,Othello,False
-1965,1966,38,ACTOR,Rod Steiger,The Pawnbroker,False
-1965,1966,38,ACTOR,Oskar Werner,Ship of Fools,False
-1966,1967,39,ACTOR,Alan Arkin,The Russians Are Coming The Russians Are Coming,False
-1966,1967,39,ACTOR,Richard Burton,Who's Afraid of Virginia Woolf?,False
-1966,1967,39,ACTOR,Michael Caine,Alfie,False
-1966,1967,39,ACTOR,Steve McQueen,The Sand Pebbles,False
-1966,1967,39,ACTOR,Paul Scofield,A Man for All Seasons,True
-1967,1968,40,ACTOR,Warren Beatty,Bonnie and Clyde,False
-1967,1968,40,ACTOR,Dustin Hoffman,The Graduate,False
-1967,1968,40,ACTOR,Paul Newman,Cool Hand Luke,False
-1967,1968,40,ACTOR,Rod Steiger,In the Heat of the Night,True
-1967,1968,40,ACTOR,Spencer Tracy,Guess Who's Coming to Dinner,False
-1968,1969,41,ACTOR,Alan Arkin,The Heart Is a Lonely Hunter,False
-1968,1969,41,ACTOR,Alan Bates,The Fixer,False
-1968,1969,41,ACTOR,Ron Moody,Oliver!,False
-1968,1969,41,ACTOR,Peter O'Toole,The Lion in Winter,False
-1968,1969,41,ACTOR,Cliff Robertson,Charly,True
-1969,1970,42,ACTOR,Richard Burton,Anne of the Thousand Days,False
-1969,1970,42,ACTOR,Dustin Hoffman,Midnight Cowboy,False
-1969,1970,42,ACTOR,Peter O'Toole,"Goodbye, Mr. Chips",False
-1969,1970,42,ACTOR,Jon Voight,Midnight Cowboy,False
-1969,1970,42,ACTOR,John Wayne,True Grit,True
-1970,1971,43,ACTOR,Melvyn Douglas,I Never Sang for My Father,False
-1970,1971,43,ACTOR,James Earl Jones,The Great White Hope,False
-1970,1971,43,ACTOR,Jack Nicholson,Five Easy Pieces,False
-1970,1971,43,ACTOR,Ryan O'Neal,Love Story,False
-1970,1971,43,ACTOR,George C. Scott,Patton,True
-1971,1972,44,ACTOR,Peter Finch,Sunday Bloody Sunday,False
-1971,1972,44,ACTOR,Gene Hackman,The French Connection,True
-1971,1972,44,ACTOR,Walter Matthau,Kotch,False
-1971,1972,44,ACTOR,George C. Scott,The Hospital,False
-1971,1972,44,ACTOR,Topol,Fiddler on the Roof,False
-1972,1973,45,ACTOR,Marlon Brando,The Godfather,True
-1972,1973,45,ACTOR,Michael Caine,Sleuth,False
-1972,1973,45,ACTOR,Laurence Olivier,Sleuth,False
-1972,1973,45,ACTOR,Peter O'Toole,The Ruling Class,False
-1972,1973,45,ACTOR,Paul Winfield,Sounder,False
-1973,1974,46,ACTOR,Marlon Brando,Last Tango in Paris,False
-1973,1974,46,ACTOR,Jack Lemmon,Save the Tiger,True
-1973,1974,46,ACTOR,Jack Nicholson,The Last Detail,False
-1973,1974,46,ACTOR,Al Pacino,Serpico,False
-1973,1974,46,ACTOR,Robert Redford,The Sting,False
-1974,1975,47,ACTOR,Art Carney,Harry and Tonto,True
-1974,1975,47,ACTOR,Albert Finney,Murder on the Orient Express,False
-1974,1975,47,ACTOR,Dustin Hoffman,Lenny,False
-1974,1975,47,ACTOR,Jack Nicholson,Chinatown,False
-1974,1975,47,ACTOR,Al Pacino,The Godfather Part II,False
-1975,1976,48,ACTOR,Walter Matthau,The Sunshine Boys,False
-1975,1976,48,ACTOR,Jack Nicholson,One Flew over the Cuckoo's Nest,True
-1975,1976,48,ACTOR,Al Pacino,Dog Day Afternoon,False
-1975,1976,48,ACTOR,Maximilian Schell,The Man in the Glass Booth,False
-1975,1976,48,ACTOR,James Whitmore,"Give 'em Hell, Harry!",False
+year_ceremony,ceremony,film,winner,name
+1928,1,The Noose,False,Richard Barthelmess
+1928,1,The Last Command,True,Emil Jannings
+1929,2,Thunderbolt,False,George Bancroft
+1929,2,In Old Arizona,True,Warner Baxter
+1929,2,Alibi,False,Chester Morris
+1929,2,The Valiant,False,Paul Muni
+1929,2,The Patriot,False,Lewis Stone
+1930,3,Disraeli,True,George Arliss
+1930,3,The Green Goddess,False,George Arliss
+1930,3,The Big House,False,Wallace Beery
+1930,3,The Big Pond,False,Maurice Chevalier
+1930,3,Bulldog Drummond,False,Ronald Colman
+1930,3,The Rogue Song,False,Lawrence Tibbett
+1931,4,A Free Soul,True,Lionel Barrymore
+1931,4,Skippy,False,Jackie Cooper
+1931,4,Cimarron,False,Richard Dix
+1931,4,The Royal Family of Broadway,False,Fredric March
+1931,4,The Front Page,False,Adolphe Menjou
+1932,5,The Champ,True,Wallace Beery
+1932,5,The Guardsman,False,Alfred Lunt
+1932,5,Dr. Jekyll and Mr. Hyde,True,Fredric March
+1933,6,Berkeley Square,False,Leslie Howard
+1933,6,The Private Life of Henry VIII,True,Charles Laughton
+1933,6,I Am a Fugitive from a Chain Gang,False,Paul Muni
+1935,7,It Happened One Night,True,Clark Gable
+1935,7,The Affairs of Cellini,False,Frank Morgan
+1935,7,The Thin Man,False,William Powell
+1936,8,Mutiny on the Bounty,False,Clark Gable
+1936,8,Mutiny on the Bounty,False,Charles Laughton
+1936,8,The Informer,True,Victor McLaglen
+1936,8,Black Fury,False,Paul Muni
+1936,8,Mutiny on the Bounty,False,Franchot Tone
+1937,9,Mr. Deeds Goes to Town,False,Gary Cooper
+1937,9,Dodsworth,False,Walter Huston
+1937,9,The Story of Louis Pasteur,True,Paul Muni
+1937,9,My Man Godfrey,False,William Powell
+1937,9,San Francisco,False,Spencer Tracy
+1938,10,Conquest,False,Charles Boyer
+1938,10,A Star Is Born,False,Fredric March
+1938,10,Night Must Fall,False,Robert Montgomery
+1938,10,The Life of Emile Zola,False,Paul Muni
+1938,10,Captains Courageous,True,Spencer Tracy
+1939,11,Algiers,False,Charles Boyer
+1939,11,Angels with Dirty Faces,False,James Cagney
+1939,11,The Citadel,False,Robert Donat
+1939,11,Pygmalion,False,Leslie Howard
+1939,11,Boys Town,True,Spencer Tracy
+1940,12,"Goodbye, Mr. Chips",True,Robert Donat
+1940,12,Gone with the Wind,False,Clark Gable
+1940,12,Wuthering Heights,False,Laurence Olivier
+1940,12,Babes in Arms,False,Mickey Rooney
+1940,12,Mr. Smith Goes to Washington,False,James Stewart
+1941,13,The Great Dictator,False,Charles Chaplin
+1941,13,The Grapes of Wrath,False,Henry Fonda
+1941,13,Abe Lincoln in Illinois,False,Raymond Massey
+1941,13,Rebecca,False,Laurence Olivier
+1941,13,The Philadelphia Story,True,James Stewart
+1942,14,Sergeant York,True,Gary Cooper
+1942,14,Penny Serenade,False,Cary Grant
+1942,14,All That Money Can Buy,False,Walter Huston
+1942,14,Here Comes Mr. Jordan,False,Robert Montgomery
+1942,14,Citizen Kane,False,Orson Welles
+1943,15,Yankee Doodle Dandy,True,James Cagney
+1943,15,Random Harvest,False,Ronald Colman
+1943,15,The Pride of the Yankees,False,Gary Cooper
+1943,15,Mrs. Miniver,False,Walter Pidgeon
+1943,15,The Pied Piper,False,Monty Woolley
+1944,16,Casablanca,False,Humphrey Bogart
+1944,16,For Whom the Bell Tolls,False,Gary Cooper
+1944,16,Watch on the Rhine,True,Paul Lukas
+1944,16,Madame Curie,False,Walter Pidgeon
+1944,16,The Human Comedy,False,Mickey Rooney
+1945,17,Gaslight,False,Charles Boyer
+1945,17,Going My Way,True,Bing Crosby
+1945,17,Going My Way,False,Barry Fitzgerald
+1945,17,None but the Lonely Heart,False,Cary Grant
+1945,17,Wilson,False,Alexander Knox
+1946,18,The Bells of St. Mary's,False,Bing Crosby
+1946,18,Anchors Aweigh,False,Gene Kelly
+1946,18,The Lost Weekend,True,Ray Milland
+1946,18,The Keys of the Kingdom,False,Gregory Peck
+1946,18,A Song to Remember,False,Cornel Wilde
+1947,19,The Best Years of Our Lives,True,Fredric March
+1947,19,Henry V,False,Laurence Olivier
+1947,19,The Jolson Story,False,Larry Parks
+1947,19,The Yearling,False,Gregory Peck
+1947,19,It's a Wonderful Life,False,James Stewart
+1948,20,A Double Life,True,Ronald Colman
+1948,20,Body and Soul,False,John Garfield
+1948,20,Gentleman's Agreement,False,Gregory Peck
+1948,20,Life with Father,False,William Powell
+1948,20,Mourning Becomes Electra,False,Michael Redgrave
+1949,21,Johnny Belinda,False,Lew Ayres
+1949,21,The Search,False,Montgomery Clift
+1949,21,When My Baby Smiles at Me,False,Dan Dailey
+1949,21,Hamlet,True,Laurence Olivier
+1949,21,Sitting Pretty,False,Clifton Webb
+1950,22,All the King's Men,True,Broderick Crawford
+1950,22,Champion,False,Kirk Douglas
+1950,22,Twelve O'Clock High,False,Gregory Peck
+1950,22,The Hasty Heart,False,Richard Todd
+1950,22,Sands of Iwo Jima,False,John Wayne
+1951,23,The Magnificent Yankee,False,Louis Calhern
+1951,23,Cyrano de Bergerac,True,José Ferrer
+1951,23,Sunset Blvd.,False,William Holden
+1951,23,Harvey,False,James Stewart
+1951,23,Father of the Bride,False,Spencer Tracy
+1952,24,The African Queen,True,Humphrey Bogart
+1952,24,A Streetcar Named Desire,False,Marlon Brando
+1952,24,A Place in the Sun,False,Montgomery Clift
+1952,24,Bright Victory,False,Arthur Kennedy
+1952,24,Death of a Salesman,False,Fredric March
+1953,25,Viva Zapata!,False,Marlon Brando
+1953,25,High Noon,True,Gary Cooper
+1953,25,The Bad and the Beautiful,False,Kirk Douglas
+1953,25,Moulin Rouge,False,José Ferrer
+1953,25,The Lavender Hill Mob,False,Alec Guinness
+1954,26,Julius Caesar,False,Marlon Brando
+1954,26,The Robe,False,Richard Burton
+1954,26,From Here to Eternity,False,Montgomery Clift
+1954,26,Stalag 17,True,William Holden
+1954,26,From Here to Eternity,False,Burt Lancaster
+1955,27,The Caine Mutiny,False,Humphrey Bogart
+1955,27,On the Waterfront,True,Marlon Brando
+1955,27,The Country Girl,False,Bing Crosby
+1955,27,A Star Is Born,False,James Mason
+1955,27,Adventures of Robinson Crusoe,False,Dan O'Herlihy
+1956,28,Marty,True,Ernest Borgnine
+1956,28,Love Me or Leave Me,False,James Cagney
+1956,28,East of Eden,False,James Dean
+1956,28,The Man with the Golden Arm,False,Frank Sinatra
+1956,28,Bad Day at Black Rock,False,Spencer Tracy
+1957,29,The King and I,True,Yul Brynner
+1957,29,Giant,False,James Dean
+1957,29,Lust for Life,False,Kirk Douglas
+1957,29,Giant,False,Rock Hudson
+1957,29,Richard III,False,Sir Laurence Olivier
+1958,30,Sayonara,False,Marlon Brando
+1958,30,A Hatful of Rain,False,Anthony Franciosa
+1958,30,The Bridge on the River Kwai,True,Alec Guinness
+1958,30,Witness for the Prosecution,False,Charles Laughton
+1958,30,Wild Is the Wind,False,Anthony Quinn
+1959,31,The Defiant Ones,False,Tony Curtis
+1959,31,Cat on a Hot Tin Roof,False,Paul Newman
+1959,31,Separate Tables,True,David Niven
+1959,31,The Defiant Ones,False,Sidney Poitier
+1959,31,The Old Man and the Sea,False,Spencer Tracy
+1960,32,Room at the Top,False,Laurence Harvey
+1960,32,Ben-Hur,True,Charlton Heston
+1960,32,Some Like It Hot,False,Jack Lemmon
+1960,32,The Last Angry Man,False,Paul Muni
+1960,32,Anatomy of a Murder,False,James Stewart
+1961,33,Sons and Lovers,False,Trevor Howard
+1961,33,Elmer Gantry,True,Burt Lancaster
+1961,33,The Apartment,False,Jack Lemmon
+1961,33,The Entertainer,False,Laurence Olivier
+1961,33,Inherit the Wind,False,Spencer Tracy
+1962,34,Fanny,False,Charles Boyer
+1962,34,The Hustler,False,Paul Newman
+1962,34,Judgment at Nuremberg,True,Maximilian Schell
+1962,34,Judgment at Nuremberg,False,Spencer Tracy
+1962,34,The Mark,False,Stuart Whitman
+1963,35,Birdman of Alcatraz,False,Burt Lancaster
+1963,35,Days of Wine and Roses,False,Jack Lemmon
+1963,35,Divorce--Italian Style,False,Marcello Mastroianni
+1963,35,Lawrence of Arabia,False,Peter O'Toole
+1963,35,To Kill a Mockingbird,True,Gregory Peck
+1964,36,Tom Jones,False,Albert Finney
+1964,36,This Sporting Life,False,Richard Harris
+1964,36,Cleopatra,False,Rex Harrison
+1964,36,Hud,False,Paul Newman
+1964,36,Lilies of the Field,True,Sidney Poitier
+1965,37,Becket,False,Richard Burton
+1965,37,My Fair Lady,True,Rex Harrison
+1965,37,Becket,False,Peter O'Toole
+1965,37,Zorba the Greek,False,Anthony Quinn
+1965,37,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,False,Peter Sellers
+1966,38,The Spy Who Came In from the Cold,False,Richard Burton
+1966,38,Cat Ballou,True,Lee Marvin
+1966,38,Othello,False,Laurence Olivier
+1966,38,The Pawnbroker,False,Rod Steiger
+1966,38,Ship of Fools,False,Oskar Werner
+1967,39,The Russians Are Coming The Russians Are Coming,False,Alan Arkin
+1967,39,Who's Afraid of Virginia Woolf?,False,Richard Burton
+1967,39,Alfie,False,Michael Caine
+1967,39,The Sand Pebbles,False,Steve McQueen
+1967,39,A Man for All Seasons,True,Paul Scofield
+1968,40,Bonnie and Clyde,False,Warren Beatty
+1968,40,The Graduate,False,Dustin Hoffman
+1968,40,Cool Hand Luke,False,Paul Newman
+1968,40,In the Heat of the Night,True,Rod Steiger
+1968,40,Guess Who's Coming to Dinner,False,Spencer Tracy
+1969,41,The Heart Is a Lonely Hunter,False,Alan Arkin
+1969,41,The Fixer,False,Alan Bates
+1969,41,Oliver!,False,Ron Moody
+1969,41,The Lion in Winter,False,Peter O'Toole
+1969,41,Charly,True,Cliff Robertson
+1970,42,Anne of the Thousand Days,False,Richard Burton
+1970,42,Midnight Cowboy,False,Dustin Hoffman
+1970,42,"Goodbye, Mr. Chips",False,Peter O'Toole
+1970,42,Midnight Cowboy,False,Jon Voight
+1970,42,True Grit,True,John Wayne
+1971,43,I Never Sang for My Father,False,Melvyn Douglas
+1971,43,The Great White Hope,False,James Earl Jones
+1971,43,Five Easy Pieces,False,Jack Nicholson
+1971,43,Love Story,False,Ryan O'Neal
+1971,43,Patton,True,George C. Scott
+1972,44,Sunday Bloody Sunday,False,Peter Finch
+1972,44,The French Connection,True,Gene Hackman
+1972,44,Kotch,False,Walter Matthau
+1972,44,The Hospital,False,George C. Scott
+1972,44,Fiddler on the Roof,False,Topol
+1973,45,The Godfather,True,Marlon Brando
+1973,45,Sleuth,False,Michael Caine
+1973,45,Sleuth,False,Laurence Olivier
+1973,45,The Ruling Class,False,Peter O'Toole
+1973,45,Sounder,False,Paul Winfield
+1974,46,Last Tango in Paris,False,Marlon Brando
+1974,46,Save the Tiger,True,Jack Lemmon
+1974,46,The Last Detail,False,Jack Nicholson
+1974,46,Serpico,False,Al Pacino
+1974,46,The Sting,False,Robert Redford
+1975,47,Harry and Tonto,True,Art Carney
+1975,47,Murder on the Orient Express,False,Albert Finney
+1975,47,Lenny,False,Dustin Hoffman
+1975,47,Chinatown,False,Jack Nicholson
+1975,47,The Godfather Part II,False,Al Pacino
+1976,48,The Sunshine Boys,False,Walter Matthau
+1976,48,One Flew over the Cuckoo's Nest,True,Jack Nicholson
+1976,48,Dog Day Afternoon,False,Al Pacino
+1976,48,The Man in the Glass Booth,False,Maximilian Schell
+1976,48,"Give 'em Hell, Harry!",False,James Whitmore
