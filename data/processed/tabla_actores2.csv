@@ -1,473 +1,538 @@
-year_ceremony,ceremony,Edad,Raza,Nacionalidad,film,winner,name
-1928,1,,,,The Noose,False,Richard Barthelmess
-1928,1,,,,The Last Command,True,Emil Jannings
-1929,2,,,,Thunderbolt,False,George Bancroft
-1929,2,,,,In Old Arizona,True,Warner Baxter
-1929,2,,,,Alibi,False,Chester Morris
-1929,2,,,,The Valiant,False,Paul Muni
-1929,2,,,,The Patriot,False,Lewis Stone
-1930,3,,,,Disraeli,True,George Arliss
-1930,3,,,,The Green Goddess,False,George Arliss
-1930,3,,,,The Big House,False,Wallace Beery
-1930,3,,,,The Big Pond,False,Maurice Chevalier
-1930,3,,,,Bulldog Drummond,False,Ronald Colman
-1930,3,,,,The Rogue Song,False,Lawrence Tibbett
-1931,4,,,,A Free Soul,True,Lionel Barrymore
-1931,4,,,,Skippy,False,Jackie Cooper
-1931,4,,,,Cimarron,False,Richard Dix
-1931,4,,,,The Royal Family of Broadway,False,Fredric March
-1931,4,,,,The Front Page,False,Adolphe Menjou
-1932,5,,,,The Champ,True,Wallace Beery
-1932,5,,,,The Guardsman,False,Alfred Lunt
-1932,5,,,,Dr. Jekyll and Mr. Hyde,True,Fredric March
-1933,6,,,,Berkeley Square,False,Leslie Howard
-1933,6,,,,The Private Life of Henry VIII,True,Charles Laughton
-1933,6,,,,I Am a Fugitive from a Chain Gang,False,Paul Muni
-1935,7,,,,It Happened One Night,True,Clark Gable
-1935,7,,,,The Affairs of Cellini,False,Frank Morgan
-1935,7,,,,The Thin Man,False,William Powell
-1936,8,,,,Mutiny on the Bounty,False,Clark Gable
-1936,8,,,,Mutiny on the Bounty,False,Charles Laughton
-1936,8,,,,The Informer,True,Victor McLaglen
-1936,8,,,,Black Fury,False,Paul Muni
-1936,8,,,,Mutiny on the Bounty,False,Franchot Tone
-1937,9,,,,Mr. Deeds Goes to Town,False,Gary Cooper
-1937,9,,,,Dodsworth,False,Walter Huston
-1937,9,,,,The Story of Louis Pasteur,True,Paul Muni
-1937,9,,,,My Man Godfrey,False,William Powell
-1937,9,,,,San Francisco,False,Spencer Tracy
-1938,10,,,,Conquest,False,Charles Boyer
-1938,10,,,,A Star Is Born,False,Fredric March
-1938,10,,,,Night Must Fall,False,Robert Montgomery
-1938,10,,,,The Life of Emile Zola,False,Paul Muni
-1938,10,,,,Captains Courageous,True,Spencer Tracy
-1939,11,,,,Algiers,False,Charles Boyer
-1939,11,,,,Angels with Dirty Faces,False,James Cagney
-1939,11,,,,The Citadel,False,Robert Donat
-1939,11,,,,Pygmalion,False,Leslie Howard
-1939,11,,,,Boys Town,True,Spencer Tracy
-1940,12,,,,"Goodbye, Mr. Chips",True,Robert Donat
-1940,12,,,,Gone with the Wind,False,Clark Gable
-1940,12,,,,Wuthering Heights,False,Laurence Olivier
-1940,12,,,,Babes in Arms,False,Mickey Rooney
-1940,12,,,,Mr. Smith Goes to Washington,False,James Stewart
-1941,13,,,,The Great Dictator,False,Charles Chaplin
-1941,13,,,,The Grapes of Wrath,False,Henry Fonda
-1941,13,,,,Abe Lincoln in Illinois,False,Raymond Massey
-1941,13,,,,Rebecca,False,Laurence Olivier
-1941,13,,,,The Philadelphia Story,True,James Stewart
-1942,14,,,,Sergeant York,True,Gary Cooper
-1942,14,,,,Penny Serenade,False,Cary Grant
-1942,14,,,,All That Money Can Buy,False,Walter Huston
-1942,14,,,,Here Comes Mr. Jordan,False,Robert Montgomery
-1942,14,,,,Citizen Kane,False,Orson Welles
-1943,15,,,,Yankee Doodle Dandy,True,James Cagney
-1943,15,,,,Random Harvest,False,Ronald Colman
-1943,15,,,,The Pride of the Yankees,False,Gary Cooper
-1943,15,,,,Mrs. Miniver,False,Walter Pidgeon
-1943,15,,,,The Pied Piper,False,Monty Woolley
-1944,16,,,,Casablanca,False,Humphrey Bogart
-1944,16,,,,For Whom the Bell Tolls,False,Gary Cooper
-1944,16,,,,Watch on the Rhine,True,Paul Lukas
-1944,16,,,,Madame Curie,False,Walter Pidgeon
-1944,16,,,,The Human Comedy,False,Mickey Rooney
-1945,17,,,,Gaslight,False,Charles Boyer
-1945,17,,,,Going My Way,True,Bing Crosby
-1945,17,,,,Going My Way,False,Barry Fitzgerald
-1945,17,,,,None but the Lonely Heart,False,Cary Grant
-1945,17,,,,Wilson,False,Alexander Knox
-1946,18,,,,The Bells of St. Mary's,False,Bing Crosby
-1946,18,,,,Anchors Aweigh,False,Gene Kelly
-1946,18,,,,The Lost Weekend,True,Ray Milland
-1946,18,,,,The Keys of the Kingdom,False,Gregory Peck
-1946,18,,,,A Song to Remember,False,Cornel Wilde
-1947,19,,,,The Best Years of Our Lives,True,Fredric March
-1947,19,,,,Henry V,False,Laurence Olivier
-1947,19,,,,The Jolson Story,False,Larry Parks
-1947,19,,,,The Yearling,False,Gregory Peck
-1947,19,,,,It's a Wonderful Life,False,James Stewart
-1948,20,,,,A Double Life,True,Ronald Colman
-1948,20,,,,Body and Soul,False,John Garfield
-1948,20,,,,Gentleman's Agreement,False,Gregory Peck
-1948,20,,,,Life with Father,False,William Powell
-1948,20,,,,Mourning Becomes Electra,False,Michael Redgrave
-1949,21,,,,Johnny Belinda,False,Lew Ayres
-1949,21,,,,The Search,False,Montgomery Clift
-1949,21,,,,When My Baby Smiles at Me,False,Dan Dailey
-1949,21,,,,Hamlet,True,Laurence Olivier
-1949,21,,,,Sitting Pretty,False,Clifton Webb
-1950,22,,,,All the King's Men,True,Broderick Crawford
-1950,22,,,,Champion,False,Kirk Douglas
-1950,22,,,,Twelve O'Clock High,False,Gregory Peck
-1950,22,,,,The Hasty Heart,False,Richard Todd
-1950,22,,,,Sands of Iwo Jima,False,John Wayne
-1951,23,,,,The Magnificent Yankee,False,Louis Calhern
-1951,23,,,,Cyrano de Bergerac,True,José Ferrer
-1951,23,,,,Sunset Blvd.,False,William Holden
-1951,23,,,,Harvey,False,James Stewart
-1951,23,,,,Father of the Bride,False,Spencer Tracy
-1952,24,,,,The African Queen,True,Humphrey Bogart
-1952,24,,,,A Streetcar Named Desire,False,Marlon Brando
-1952,24,,,,A Place in the Sun,False,Montgomery Clift
-1952,24,,,,Bright Victory,False,Arthur Kennedy
-1952,24,,,,Death of a Salesman,False,Fredric March
-1953,25,,,,Viva Zapata!,False,Marlon Brando
-1953,25,,,,High Noon,True,Gary Cooper
-1953,25,,,,The Bad and the Beautiful,False,Kirk Douglas
-1953,25,,,,Moulin Rouge,False,José Ferrer
-1953,25,,,,The Lavender Hill Mob,False,Alec Guinness
-1954,26,,,,Julius Caesar,False,Marlon Brando
-1954,26,,,,The Robe,False,Richard Burton
-1954,26,,,,From Here to Eternity,False,Montgomery Clift
-1954,26,,,,Stalag 17,True,William Holden
-1954,26,,,,From Here to Eternity,False,Burt Lancaster
-1955,27,,,,The Caine Mutiny,False,Humphrey Bogart
-1955,27,,,,On the Waterfront,True,Marlon Brando
-1955,27,,,,The Country Girl,False,Bing Crosby
-1955,27,,,,A Star Is Born,False,James Mason
-1955,27,,,,Adventures of Robinson Crusoe,False,Dan O'Herlihy
-1956,28,,,,Marty,True,Ernest Borgnine
-1956,28,,,,Love Me or Leave Me,False,James Cagney
-1956,28,,,,East of Eden,False,James Dean
-1956,28,,,,The Man with the Golden Arm,False,Frank Sinatra
-1956,28,,,,Bad Day at Black Rock,False,Spencer Tracy
-1957,29,,,,The King and I,True,Yul Brynner
-1957,29,,,,Giant,False,James Dean
-1957,29,,,,Lust for Life,False,Kirk Douglas
-1957,29,,,,Giant,False,Rock Hudson
-1957,29,,,,Richard III,False,Sir Laurence Olivier
-1958,30,,,,Sayonara,False,Marlon Brando
-1958,30,,,,A Hatful of Rain,False,Anthony Franciosa
-1958,30,,,,The Bridge on the River Kwai,True,Alec Guinness
-1958,30,,,,Witness for the Prosecution,False,Charles Laughton
-1958,30,,,,Wild Is the Wind,False,Anthony Quinn
-1959,31,,,,The Defiant Ones,False,Tony Curtis
-1959,31,,,,Cat on a Hot Tin Roof,False,Paul Newman
-1959,31,,,,Separate Tables,True,David Niven
-1959,31,,,,The Defiant Ones,False,Sidney Poitier
-1959,31,,,,The Old Man and the Sea,False,Spencer Tracy
-1960,32,,,,Room at the Top,False,Laurence Harvey
-1960,32,,,,Ben-Hur,True,Charlton Heston
-1960,32,,,,Some Like It Hot,False,Jack Lemmon
-1960,32,,,,The Last Angry Man,False,Paul Muni
-1960,32,,,,Anatomy of a Murder,False,James Stewart
-1961,33,,,,Sons and Lovers,False,Trevor Howard
-1961,33,,,,Elmer Gantry,True,Burt Lancaster
-1961,33,,,,The Apartment,False,Jack Lemmon
-1961,33,,,,The Entertainer,False,Laurence Olivier
-1961,33,,,,Inherit the Wind,False,Spencer Tracy
-1962,34,,,,Fanny,False,Charles Boyer
-1962,34,,,,The Hustler,False,Paul Newman
-1962,34,,,,Judgment at Nuremberg,True,Maximilian Schell
-1962,34,,,,Judgment at Nuremberg,False,Spencer Tracy
-1962,34,,,,The Mark,False,Stuart Whitman
-1963,35,,,,Birdman of Alcatraz,False,Burt Lancaster
-1963,35,,,,Days of Wine and Roses,False,Jack Lemmon
-1963,35,,,,Divorce--Italian Style,False,Marcello Mastroianni
-1963,35,,,,Lawrence of Arabia,False,Peter O'Toole
-1963,35,,,,To Kill a Mockingbird,True,Gregory Peck
-1964,36,,,,Tom Jones,False,Albert Finney
-1964,36,,,,This Sporting Life,False,Richard Harris
-1964,36,,,,Cleopatra,False,Rex Harrison
-1964,36,,,,Hud,False,Paul Newman
-1964,36,,,,Lilies of the Field,True,Sidney Poitier
-1965,37,,,,Becket,False,Richard Burton
-1965,37,,,,My Fair Lady,True,Rex Harrison
-1965,37,,,,Becket,False,Peter O'Toole
-1965,37,,,,Zorba the Greek,False,Anthony Quinn
-1965,37,,,,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,False,Peter Sellers
-1966,38,,,,The Spy Who Came In from the Cold,False,Richard Burton
-1966,38,,,,Cat Ballou,True,Lee Marvin
-1966,38,,,,Othello,False,Laurence Olivier
-1966,38,,,,The Pawnbroker,False,Rod Steiger
-1966,38,,,,Ship of Fools,False,Oskar Werner
-1967,39,,,,The Russians Are Coming The Russians Are Coming,False,Alan Arkin
-1967,39,,,,Who's Afraid of Virginia Woolf?,False,Richard Burton
-1967,39,,,,Alfie,False,Michael Caine
-1967,39,,,,The Sand Pebbles,False,Steve McQueen
-1967,39,,,,A Man for All Seasons,True,Paul Scofield
-1968,40,,,,Bonnie and Clyde,False,Warren Beatty
-1968,40,,,,The Graduate,False,Dustin Hoffman
-1968,40,,,,Cool Hand Luke,False,Paul Newman
-1968,40,,,,In the Heat of the Night,True,Rod Steiger
-1968,40,,,,Guess Who's Coming to Dinner,False,Spencer Tracy
-1969,41,,,,The Heart Is a Lonely Hunter,False,Alan Arkin
-1969,41,,,,The Fixer,False,Alan Bates
-1969,41,,,,Oliver!,False,Ron Moody
-1969,41,,,,The Lion in Winter,False,Peter O'Toole
-1969,41,,,,Charly,True,Cliff Robertson
-1970,42,,,,Anne of the Thousand Days,False,Richard Burton
-1970,42,,,,Midnight Cowboy,False,Dustin Hoffman
-1970,42,,,,"Goodbye, Mr. Chips",False,Peter O'Toole
-1970,42,,,,Midnight Cowboy,False,Jon Voight
-1970,42,,,,True Grit,True,John Wayne
-1971,43,,,,I Never Sang for My Father,False,Melvyn Douglas
-1971,43,,,,The Great White Hope,False,James Earl Jones
-1971,43,,,,Five Easy Pieces,False,Jack Nicholson
-1971,43,,,,Love Story,False,Ryan O'Neal
-1971,43,,,,Patton,True,George C. Scott
-1972,44,,,,Sunday Bloody Sunday,False,Peter Finch
-1972,44,,,,The French Connection,True,Gene Hackman
-1972,44,,,,Kotch,False,Walter Matthau
-1972,44,,,,The Hospital,False,George C. Scott
-1972,44,,,,Fiddler on the Roof,False,Topol
-1973,45,,,,The Godfather,True,Marlon Brando
-1973,45,,,,Sleuth,False,Michael Caine
-1973,45,,,,Sleuth,False,Laurence Olivier
-1973,45,,,,The Ruling Class,False,Peter O'Toole
-1973,45,,,,Sounder,False,Paul Winfield
-1974,46,,,,Last Tango in Paris,False,Marlon Brando
-1974,46,,,,Save the Tiger,True,Jack Lemmon
-1974,46,,,,The Last Detail,False,Jack Nicholson
-1974,46,,,,Serpico,False,Al Pacino
-1974,46,,,,The Sting,False,Robert Redford
-1975,47,,,,Harry and Tonto,True,Art Carney
-1975,47,,,,Murder on the Orient Express,False,Albert Finney
-1975,47,,,,Lenny,False,Dustin Hoffman
-1975,47,,,,Chinatown,False,Jack Nicholson
-1975,47,,,,The Godfather Part II,False,Al Pacino
-1976,48,,,,The Sunshine Boys,False,Walter Matthau
-1976,48,,,,One Flew over the Cuckoo's Nest,True,Jack Nicholson
-1976,48,,,,Dog Day Afternoon,False,Al Pacino
-1976,48,,,,The Man in the Glass Booth,False,Maximilian Schell
-1976,48,,,,"Give 'em Hell, Harry!",False,James Whitmore
-1977,49,,,,Taxi Driver,False,Robert De Niro
-1977,49,,,,Network,True,Peter Finch
-1977,49,,,,Seven Beauties,False,Giancarlo Giannini
-1977,49,,,,Network,False,William Holden
-1977,49,,,,Rocky,False,Sylvester Stallone
-1978,50,,,,Annie Hall,False,Woody Allen
-1978,50,,,,Equus,False,Richard Burton
-1978,50,,,,The Goodbye Girl,True,Richard Dreyfuss
-1978,50,,,,A Special Day,False,Marcello Mastroianni
-1978,50,,,,Saturday Night Fever,False,John Travolta
-1979,51,,,,Heaven Can Wait,False,Warren Beatty
-1979,51,,,,The Buddy Holly Story,False,Gary Busey
-1979,51,,,,The Deer Hunter,False,Robert De Niro
-1979,51,,,,The Boys from Brazil,False,Laurence Olivier
-1979,51,,,,Coming Home,True,Jon Voight
-1980,52,,,,Kramer vs. Kramer,True,Dustin Hoffman
-1980,52,,,,The China Syndrome,False,Jack Lemmon
-1980,52,,,,...And Justice for All,False,Al Pacino
-1980,52,,,,All That Jazz,False,Roy Scheider
-1980,52,,,,Being There,False,Peter Sellers
-1981,53,,,,Raging Bull,True,Robert De Niro
-1981,53,,,,The Great Santini,False,Robert Duvall
-1981,53,,,,The Elephant Man,False,John Hurt
-1981,53,,,,Tribute,False,Jack Lemmon
-1981,53,,,,The Stunt Man,False,Peter O'Toole
-1982,54,,,,Reds,False,Warren Beatty
-1982,54,,,,On Golden Pond,True,Henry Fonda
-1982,54,,,,Atlantic City,False,Burt Lancaster
-1982,54,,,,Arthur,False,Dudley Moore
-1982,54,,,,Absence of Malice,False,Paul Newman
-1983,55,,,,Tootsie,False,Dustin Hoffman
-1983,55,,,,Gandhi,True,Ben Kingsley
-1983,55,,,,Missing,False,Jack Lemmon
-1983,55,,,,The Verdict,False,Paul Newman
-1983,55,,,,My Favorite Year,False,Peter O'Toole
-1984,56,,,,Educating Rita,False,Michael Caine
-1984,56,,,,"Reuben, Reuben",False,Tom Conti
-1984,56,,,,The Dresser,False,Tom Courtenay
-1984,56,,,,Tender Mercies,True,Robert Duvall
-1984,56,,,,The Dresser,False,Albert Finney
-1985,57,,,,Amadeus,True,F. Murray Abraham
-1985,57,,,,Starman,False,Jeff Bridges
-1985,57,,,,Under the Volcano,False,Albert Finney
-1985,57,,,,Amadeus,False,Tom Hulce
-1985,57,,,,The Killing Fields,False,Sam Waterston
-1986,58,,,,Witness,False,Harrison Ford
-1986,58,,,,Murphy's Romance,False,James Garner
-1986,58,,,,Kiss of the Spider Woman,True,William Hurt
-1986,58,,,,Prizzi's Honor,False,Jack Nicholson
-1986,58,,,,Runaway Train,False,Jon Voight
-1987,59,,,,'Round Midnight,False,Dexter Gordon
-1987,59,,,,Mona Lisa,False,Bob Hoskins
-1987,59,,,,Children of a Lesser God,False,William Hurt
-1987,59,,,,The Color of Money,True,Paul Newman
-1987,59,,,,Salvador,False,James Woods
-1988,60,,,,Wall Street,True,Michael Douglas
-1988,60,,,,Broadcast News,False,William Hurt
-1988,60,,,,Dark Eyes,False,Marcello Mastroianni
-1988,60,,,,Ironweed,False,Jack Nicholson
-1988,60,,,,"Good Morning, Vietnam",False,Robin Williams
-1989,61,,,,Mississippi Burning,False,Gene Hackman
-1989,61,,,,Big,False,Tom Hanks
-1989,61,,,,Rain Man,True,Dustin Hoffman
-1989,61,,,,Stand and Deliver,False,Edward James Olmos
-1989,61,,,,Pelle the Conqueror,False,Max von Sydow
-1990,62,,,,Henry V,False,Kenneth Branagh
-1990,62,,,,Born on the Fourth of July,False,Tom Cruise
-1990,62,,,,My Left Foot,True,Daniel Day Lewis
-1990,62,,,,Driving Miss Daisy,False,Morgan Freeman
-1990,62,,,,Dead Poets Society,False,Robin Williams
-1991,63,,,,Dances With Wolves,False,Kevin Costner
-1991,63,,,,Awakenings,False,Robert De Niro
-1991,63,,,,Cyrano de Bergerac,False,Gerard Depardieu
-1991,63,,,,The Field,False,Richard Harris
-1991,63,,,,Reversal of Fortune,True,Jeremy Irons
-1992,64,,,,Bugsy,False,Warren Beatty
-1992,64,,,,Cape Fear,False,Robert De Niro
-1992,64,,,,The Silence of the Lambs,True,Anthony Hopkins
-1992,64,,,,The Prince of Tides,False,Nick Nolte
-1992,64,,,,The Fisher King,False,Robin Williams
-1993,65,,,,Chaplin,False,Robert Downey Jr.
-1993,65,,,,Unforgiven,False,Clint Eastwood
-1993,65,,,,Scent of a Woman,True,Al Pacino
-1993,65,,,,The Crying Game,False,Stephen Rea
-1993,65,,,,Malcolm X,False,Denzel Washington
-1994,66,,,,In the Name of the Father,False,Daniel Day-Lewis
-1994,66,,,,What's Love Got to Do with It,False,Laurence Fishburne
-1994,66,,,,Philadelphia,True,Tom Hanks
-1994,66,,,,The Remains of the Day,False,Anthony Hopkins
-1994,66,,,,Schindler's List,False,Liam Neeson
-1995,67,,,,The Shawshank Redemption,False,Morgan Freeman
-1995,67,,,,Forrest Gump,True,Tom Hanks
-1995,67,,,,The Madness of King George,False,Nigel Hawthorne
-1995,67,,,,Nobody's Fool,False,Paul Newman
-1995,67,,,,Pulp Fiction,False,John Travolta
-1996,68,,,,Leaving Las Vegas,True,Nicolas Cage
-1996,68,,,,Mr. Holland's Opus,False,Richard Dreyfuss
-1996,68,,,,Nixon,False,Anthony Hopkins
-1996,68,,,,Dead Man Walking,False,Sean Penn
-1996,68,,,,The Postman (Il Postino),False,Massimo Troisi
-1997,69,,,,Jerry Maguire,False,Tom Cruise
-1997,69,,,,The English Patient,False,Ralph Fiennes
-1997,69,,,,The People vs. Larry Flynt,False,Woody Harrelson
-1997,69,,,,Shine,True,Geoffrey Rush
-1997,69,,,,Sling Blade,False,Billy Bob Thornton
-1998,70,,,,Good Will Hunting,False,Matt Damon
-1998,70,,,,The Apostle,False,Robert Duvall
-1998,70,,,,Ulee's Gold,False,Peter Fonda
-1998,70,,,,Wag the Dog,False,Dustin Hoffman
-1998,70,,,,As Good as It Gets,True,Jack Nicholson
-1999,71,,,,Life Is Beautiful,True,Roberto Benigni
-1999,71,,,,Saving Private Ryan,False,Tom Hanks
-1999,71,,,,Gods and Monsters,False,Ian McKellen
-1999,71,,,,Affliction,False,Nick Nolte
-1999,71,,,,American History X,False,Edward Norton
-2000,72,,,,The Insider,False,Russell Crowe
-2000,72,,,,The Straight Story,False,Richard Farnsworth
-2000,72,,,,Sweet and Lowdown,False,Sean Penn
-2000,72,,,,American Beauty,True,Kevin Spacey
-2000,72,,,,The Hurricane,False,Denzel Washington
-2001,73,,,,Before Night Falls,False,Javier Bardem
-2001,73,,,,Gladiator,True,Russell Crowe
-2001,73,,,,Cast Away,False,Tom Hanks
-2001,73,,,,Pollock,False,Ed Harris
-2001,73,,,,Quills,False,Geoffrey Rush
-2002,74,,,,A Beautiful Mind,False,Russell Crowe
-2002,74,,,,I Am Sam,False,Sean Penn
-2002,74,,,,Ali,False,Will Smith
-2002,74,,,,Training Day,True,Denzel Washington
-2002,74,,,,In the Bedroom,False,Tom Wilkinson
-2003,75,,,,The Pianist,True,Adrien Brody
-2003,75,,,,Adaptation,False,Nicolas Cage
-2003,75,,,,The Quiet American,False,Michael Caine
-2003,75,,,,Gangs of New York,False,Daniel Day-Lewis
-2003,75,,,,About Schmidt,False,Jack Nicholson
-2004,76,,,,Pirates of the Caribbean: The Curse of the Black Pearl,False,Johnny Depp
-2004,76,,,,House of Sand and Fog,False,Ben Kingsley
-2004,76,,,,Cold Mountain,False,Jude Law
-2004,76,,,,Lost in Translation,False,Bill Murray
-2004,76,,,,Mystic River,True,Sean Penn
-2005,77,,,,Hotel Rwanda,False,Don Cheadle
-2005,77,,,,Finding Neverland,False,Johnny Depp
-2005,77,,,,The Aviator,False,Leonardo DiCaprio
-2005,77,,,,Million Dollar Baby,False,Clint Eastwood
-2005,77,,,,Ray,True,Jamie Foxx
-2006,78,,,,Capote,True,Philip Seymour Hoffman
-2006,78,,,,Hustle & Flow,False,Terrence Howard
-2006,78,,,,Brokeback Mountain,False,Heath Ledger
-2006,78,,,,Walk the Line,False,Joaquin Phoenix
-2006,78,,,,"Good Night, and Good Luck.",False,David Strathairn
-2007,79,,,,Blood Diamond,False,Leonardo DiCaprio
-2007,79,,,,Half Nelson,False,Ryan Gosling
-2007,79,,,,Venus,False,Peter O'Toole
-2007,79,,,,The Pursuit of Happyness,False,Will Smith
-2007,79,,,,The Last King of Scotland,True,Forest Whitaker
-2008,80,,,,Michael Clayton,False,George Clooney
-2008,80,,,,There Will Be Blood,True,Daniel Day-Lewis
-2008,80,,,,Sweeney Todd The Demon Barber of Fleet Street,False,Johnny Depp
-2008,80,,,,In the Valley of Elah,False,Tommy Lee Jones
-2008,80,,,,Eastern Promises,False,Viggo Mortensen
-2009,81,,,,The Visitor,False,Richard Jenkins
-2009,81,,,,Frost/Nixon,False,Frank Langella
-2009,81,,,,Milk,True,Sean Penn
-2009,81,,,,The Curious Case of Benjamin Button,False,Brad Pitt
-2009,81,,,,The Wrestler,False,Mickey Rourke
-2010,82,,,,Crazy Heart,True,Jeff Bridges
-2010,82,,,,Up in the Air,False,George Clooney
-2010,82,,,,A Single Man,False,Colin Firth
-2010,82,,,,Invictus,False,Morgan Freeman
-2010,82,,,,The Hurt Locker,False,Jeremy Renner
-2011,83,,,,Biutiful,False,Javier Bardem
-2011,83,,,,True Grit,False,Jeff Bridges
-2011,83,,,,The Social Network,False,Jesse Eisenberg
-2011,83,,,,The King's Speech,True,Colin Firth
-2011,83,,,,127 Hours,False,James Franco
-2012,84,,,,A Better Life,False,Demián Bichir
-2012,84,,,,The Descendants,False,George Clooney
-2012,84,,,,The Artist,True,Jean Dujardin
-2012,84,,,,Tinker Tailor Soldier Spy,False,Gary Oldman
-2012,84,,,,Moneyball,False,Brad Pitt
-2013,85,,,,Silver Linings Playbook,False,Bradley Cooper
-2013,85,,,,Lincoln,True,Daniel Day-Lewis
-2013,85,,,,Les Misérables,False,Hugh Jackman
-2013,85,,,,The Master,False,Joaquin Phoenix
-2013,85,,,,Flight,False,Denzel Washington
-2014,86,,,,American Hustle,False,Christian Bale
-2014,86,,,,Nebraska,False,Bruce Dern
-2014,86,,,,The Wolf of Wall Street,False,Leonardo DiCaprio
-2014,86,,,,12 Years a Slave,False,Chiwetel Ejiofor
-2014,86,,,,Dallas Buyers Club,True,Matthew McConaughey
-2015,87,,,,Foxcatcher,False,Steve Carell
-2015,87,,,,American Sniper,False,Bradley Cooper
-2015,87,,,,The Imitation Game,False,Benedict Cumberbatch
-2015,87,,,,Birdman or (The Unexpected Virtue of Ignorance),False,Michael Keaton
-2015,87,,,,The Theory of Everything,True,Eddie Redmayne
-2016,88,,,,Trumbo,False,Bryan Cranston
-2016,88,,,,The Martian,False,Matt Damon
-2016,88,,,,The Revenant,True,Leonardo DiCaprio
-2016,88,,,,Steve Jobs,False,Michael Fassbender
-2016,88,,,,The Danish Girl,False,Eddie Redmayne
-2017,89,,,,Manchester by the Sea,True,Casey Affleck
-2017,89,,,,Hacksaw Ridge,False,Andrew Garfield
-2017,89,,,,La La Land,False,Ryan Gosling
-2017,89,,,,Captain Fantastic,False,Viggo Mortensen
-2017,89,,,,Fences,False,Denzel Washington
-2018,90,,,,Call Me by Your Name,False,Timothée Chalamet
-2018,90,,,,Phantom Thread,False,Daniel Day-Lewis
-2018,90,,,,Get Out,False,Daniel Kaluuya
-2018,90,,,,Darkest Hour,True,Gary Oldman
-2018,90,,,,"Roman J. Israel, Esq.",False,Denzel Washington
-2019,91,,,,Vice,False,Christian Bale
-2019,91,,,,A Star Is Born,False,Bradley Cooper
-2019,91,,,,At Eternity's Gate,False,Willem Dafoe
-2019,91,,,,Bohemian Rhapsody,True,Rami Malek
-2019,91,,,,Green Book,False,Viggo Mortensen
-2020,92,,,,Pain and Glory,False,Antonio Banderas
-2020,92,,,,Once upon a Time...in Hollywood,False,Leonardo DiCaprio
-2020,92,,,,Marriage Story,False,Adam Driver
-2020,92,,,,Joker,True,Joaquin Phoenix
-2020,92,,,,The Two Popes,False,Jonathan Pryce
-2021,93,,,,Sound of Metal,False,Riz Ahmed
-2021,93,,,,Ma Rainey's Black Bottom,False,Chadwick Boseman
-2021,93,,,,The Father,True,Anthony Hopkins
-2021,93,,,,Mank,False,Gary Oldman
-2021,93,,,,Minari,False,Steven Yeun
-2022,94,,,,Being the Ricardos,False,Javier Bardem
-2022,94,,,,The Power of the Dog,False,Benedict Cumberbatch
-2022,94,,,,"tick, tick...BOOM!",False,Andrew Garfield
-2022,94,,,,King Richard,True,Will Smith
-2022,94,,,,The Tragedy of Macbeth,False,Denzel Washington
-2023,95,,,,Elvis,False,Austin Butler
-2023,95,,,,The Banshees of Inisherin,False,Colin Farrell
-2023,95,,,,The Whale,True,Brendan Fraser
-2023,95,,,,Aftersun,False,Paul Mescal
-2023,95,,,,Living,False,Bill Nighy
-2024,96,,,,Maestro,False,Bradley Cooper
-2024,96,,,,Rustin,False,Colman Domingo
-2024,96,,,,The Holdovers,False,Paul Giamatti
-2024,96,,,,Oppenheimer,True,Cillian Murphy
-2024,96,,,,American Fiction,False,Jeffrey Wright
+level_0,index,name,edad,raza,nacionalidad,winner,film,year_ceremony
+0,0,Richard Barthelmess,,,,False,The Noose,1928
+1,1,Emil Jannings,45.0,Blanca,Alemania,True,The Last Command,1928
+2,2,George Bancroft,,,,False,Thunderbolt,1929
+3,3,Warner Baxter,40.0,Blanca,Estados Unidos,True,In Old Arizona,1929
+4,4,Chester Morris,,,,False,Alibi,1929
+5,5,Paul Muni,42.0,Blanca,Estados Unidos,False,The Valiant,1929
+6,6,Lewis Stone,,,,False,The Patriot,1929
+7,7,George Arliss,,,,True,Disraeli,1930
+8,8,George Arliss,,,,False,The Green Goddess,1930
+9,9,Wallace Beery,51.0,Blanca,Estados Unidos,False,The Big House,1930
+10,10,Maurice Chevalier,,,,False,The Big Pond,1930
+11,11,Ronald Colman,52.0,Blanca,Estados Unidos,False,Bulldog Drummond,1930
+12,12,Lawrence Tibbett,,,,False,The Rogue Song,1930
+13,13,Lionel Barrymore,53.0,Blanca,Estados Unidos,True,A Free Soul,1931
+14,14,Jackie Cooper,,,,False,Skippy,1931
+15,15,Richard Dix,,,,False,Cimarron,1931
+16,16,Fredric March,37.0,Blanca,Estados Unidos,False,The Royal Family of Broadway,1931
+17,17,Fredric March,45.0,Blanca,Reino Unido,False,The Royal Family of Broadway,1931
+18,18,Adolphe Menjou,,,,False,The Front Page,1931
+19,19,Wallace Beery,51.0,Blanca,Estados Unidos,True,The Champ,1932
+20,20,Alfred Lunt,,,,False,The Guardsman,1932
+21,21,Fredric March,37.0,Blanca,Estados Unidos,True,Dr. Jekyll and Mr. Hyde,1932
+22,22,Fredric March,45.0,Blanca,Reino Unido,True,Dr. Jekyll and Mr. Hyde,1932
+23,23,Leslie Howard,,,,False,Berkeley Square,1933
+24,24,Charles Laughton,34.0,Blanca,Reino Unido,True,The Private Life of Henry VIII,1933
+25,25,Paul Muni,42.0,Blanca,Estados Unidos,False,I Am a Fugitive from a Chain Gang,1933
+26,26,Clark Gable,34.0,Blanca,Estados Unidos,True,It Happened One Night,1935
+27,27,Frank Morgan,,,,False,The Affairs of Cellini,1935
+28,28,William Powell,,,,False,The Thin Man,1935
+29,29,Clark Gable,34.0,Blanca,Estados Unidos,False,Mutiny on the Bounty,1936
+30,30,Charles Laughton,34.0,Blanca,Reino Unido,False,Mutiny on the Bounty,1936
+31,31,Victor McLaglen,49.0,Blanca,Reino Unido,True,The Informer,1936
+32,32,Paul Muni,42.0,Blanca,Estados Unidos,False,Black Fury,1936
+33,33,Franchot Tone,,,,False,Mutiny on the Bounty,1936
+34,34,Gary Cooper,41.0,Blanca,Estados Unidos,False,Mr. Deeds Goes to Town,1937
+35,35,Gary Cooper,53.0,Blanca,Estados Unidos,False,Mr. Deeds Goes to Town,1937
+36,36,Walter Huston,,,,False,Dodsworth,1937
+37,37,Paul Muni,42.0,Blanca,Estados Unidos,True,The Story of Louis Pasteur,1937
+38,38,William Powell,,,,False,My Man Godfrey,1937
+39,39,Spencer Tracy,36.0,Blanca,Estados Unidos,False,San Francisco,1937
+40,40,Spencer Tracy,37.0,Blanca,Estados Unidos,False,San Francisco,1937
+41,41,Charles Boyer,,,,False,Conquest,1938
+42,42,Fredric March,37.0,Blanca,Estados Unidos,False,A Star Is Born,1938
+43,43,Fredric March,45.0,Blanca,Reino Unido,False,A Star Is Born,1938
+44,44,Robert Montgomery,,,,False,Night Must Fall,1938
+45,45,Paul Muni,42.0,Blanca,Estados Unidos,False,The Life of Emile Zola,1938
+46,46,Spencer Tracy,36.0,Blanca,Estados Unidos,True,Captains Courageous,1938
+47,47,Spencer Tracy,37.0,Blanca,Estados Unidos,True,Captains Courageous,1938
+48,48,Charles Boyer,,,,False,Algiers,1939
+49,49,James Cagney,42.0,Blanca,Hungría,False,Angels with Dirty Faces,1939
+50,50,Robert Donat,33.0,Blanca,Reino Unido,False,The Citadel,1939
+51,51,Leslie Howard,,,,False,Pygmalion,1939
+52,52,Spencer Tracy,36.0,Blanca,Estados Unidos,True,Boys Town,1939
+53,53,Spencer Tracy,37.0,Blanca,Estados Unidos,True,Boys Town,1939
+54,54,Robert Donat,33.0,Blanca,Reino Unido,True,"Goodbye, Mr. Chips",1940
+55,55,Clark Gable,34.0,Blanca,Estados Unidos,False,Gone with the Wind,1940
+56,56,Laurence Olivier,41.0,Hispano,Puerto Rico,False,Wuthering Heights,1940
+57,57,Mickey Rooney,,,,False,Babes in Arms,1940
+58,58,James Stewart,32.0,Blanca,Estados Unidos,False,Mr. Smith Goes to Washington,1940
+59,59,Charles Chaplin,,,,False,The Great Dictator,1941
+60,60,Henry Fonda,76.0,Blanca,Reino Unido,False,The Grapes of Wrath,1941
+61,61,Raymond Massey,,,,False,Abe Lincoln in Illinois,1941
+62,62,Laurence Olivier,41.0,Hispano,Puerto Rico,False,Rebecca,1941
+63,63,James Stewart,32.0,Blanca,Estados Unidos,True,The Philadelphia Story,1941
+64,64,Gary Cooper,41.0,Blanca,Estados Unidos,True,Sergeant York,1942
+65,65,Gary Cooper,53.0,Blanca,Estados Unidos,True,Sergeant York,1942
+66,66,Cary Grant,,,,False,Penny Serenade,1942
+67,67,Walter Huston,,,,False,All That Money Can Buy,1942
+68,68,Robert Montgomery,,,,False,Here Comes Mr. Jordan,1942
+69,69,Orson Welles,,,,False,Citizen Kane,1942
+70,70,James Cagney,42.0,Blanca,Hungría,True,Yankee Doodle Dandy,1943
+71,71,Ronald Colman,52.0,Blanca,Estados Unidos,False,Random Harvest,1943
+72,72,Gary Cooper,41.0,Blanca,Estados Unidos,False,The Pride of the Yankees,1943
+73,73,Gary Cooper,53.0,Blanca,Estados Unidos,False,The Pride of the Yankees,1943
+74,74,Walter Pidgeon,,,,False,Mrs. Miniver,1943
+75,75,Monty Woolley,,,,False,The Pied Piper,1943
+76,76,Humphrey Bogart,54.0,Blanca,Estados Unidos,False,Casablanca,1944
+77,77,Gary Cooper,41.0,Blanca,Estados Unidos,False,For Whom the Bell Tolls,1944
+78,78,Gary Cooper,53.0,Blanca,Estados Unidos,False,For Whom the Bell Tolls,1944
+79,79,Paul Lukas,50.0,Blanca,Estados Unidos,True,Watch on the Rhine,1944
+80,80,Walter Pidgeon,,,,False,Madame Curie,1944
+81,81,Mickey Rooney,,,,False,The Human Comedy,1944
+82,82,Charles Boyer,,,,False,Gaslight,1945
+83,83,Bing Crosby,41.0,Blanca,Reino Unido,True,Going My Way,1945
+84,84,Barry Fitzgerald,,,,False,Going My Way,1945
+85,85,Cary Grant,,,,False,None but the Lonely Heart,1945
+86,86,Alexander Knox,,,,False,Wilson,1945
+87,87,Bing Crosby,41.0,Blanca,Reino Unido,False,The Bells of St. Mary's,1946
+88,88,Gene Kelly,,,,False,Anchors Aweigh,1946
+89,89,Ray Milland,38.0,Blanca,Estados Unidos,True,The Lost Weekend,1946
+90,90,Gregory Peck,46.0,Blanca,Estados Unidos,False,The Keys of the Kingdom,1946
+91,91,Cornel Wilde,,,,False,A Song to Remember,1946
+92,92,Fredric March,37.0,Blanca,Estados Unidos,True,The Best Years of Our Lives,1947
+93,93,Fredric March,45.0,Blanca,Reino Unido,True,The Best Years of Our Lives,1947
+94,94,Laurence Olivier,41.0,Hispano,Puerto Rico,False,Henry V,1947
+95,95,Larry Parks,,,,False,The Jolson Story,1947
+96,96,Gregory Peck,46.0,Blanca,Estados Unidos,False,The Yearling,1947
+97,97,James Stewart,32.0,Blanca,Estados Unidos,False,It's a Wonderful Life,1947
+98,98,Ronald Colman,52.0,Blanca,Estados Unidos,True,A Double Life,1948
+99,99,John Garfield,,,,False,Body and Soul,1948
+100,100,Gregory Peck,46.0,Blanca,Estados Unidos,False,Gentleman's Agreement,1948
+101,101,William Powell,,,,False,Life with Father,1948
+102,102,Michael Redgrave,,,,False,Mourning Becomes Electra,1948
+103,103,Lew Ayres,,,,False,Johnny Belinda,1949
+104,104,Montgomery Clift,,,,False,The Search,1949
+105,105,Dan Dailey,,,,False,When My Baby Smiles at Me,1949
+106,106,Laurence Olivier,41.0,Hispano,Puerto Rico,True,Hamlet,1949
+107,107,Clifton Webb,,,,False,Sitting Pretty,1949
+108,108,Broderick Crawford,44.0,Blanca,Estados Unidos,True,All the King's Men,1950
+109,109,Kirk Douglas,,,,False,Champion,1950
+110,110,Gregory Peck,46.0,Blanca,Estados Unidos,False,Twelve O'Clock High,1950
+111,111,Richard Todd,,,,False,The Hasty Heart,1950
+112,112,John Wayne,62.0,Blanca,Estados Unidos,False,Sands of Iwo Jima,1950
+113,113,Louis Calhern,,,,False,The Magnificent Yankee,1951
+114,114,José Ferrer,41.0,Blanca,Estados Unidos,True,Cyrano de Bergerac,1951
+115,115,William Holden,35.0,Blanca,Estados Unidos,False,Sunset Blvd.,1951
+116,116,James Stewart,32.0,Blanca,Estados Unidos,False,Harvey,1951
+117,117,Spencer Tracy,36.0,Blanca,Estados Unidos,False,Father of the Bride,1951
+118,118,Spencer Tracy,37.0,Blanca,Estados Unidos,False,Father of the Bride,1951
+119,119,Humphrey Bogart,54.0,Blanca,Estados Unidos,True,The African Queen,1952
+120,120,Marlon Brando,30.0,Blanca,Rusia,False,A Streetcar Named Desire,1952
+121,121,Marlon Brando,48.0,Blanca,Estados Unidos,False,A Streetcar Named Desire,1952
+122,122,Montgomery Clift,,,,False,A Place in the Sun,1952
+123,123,Arthur Kennedy,,,,False,Bright Victory,1952
+124,124,Fredric March,37.0,Blanca,Estados Unidos,False,Death of a Salesman,1952
+125,125,Fredric March,45.0,Blanca,Reino Unido,False,Death of a Salesman,1952
+126,126,Marlon Brando,30.0,Blanca,Rusia,False,Viva Zapata!,1953
+127,127,Marlon Brando,48.0,Blanca,Estados Unidos,False,Viva Zapata!,1953
+128,128,Gary Cooper,41.0,Blanca,Estados Unidos,True,High Noon,1953
+129,129,Gary Cooper,53.0,Blanca,Estados Unidos,True,High Noon,1953
+130,130,Kirk Douglas,,,,False,The Bad and the Beautiful,1953
+131,131,José Ferrer,41.0,Blanca,Estados Unidos,False,Moulin Rouge,1953
+132,132,Alec Guinness,53.0,Blanca,Estados Unidos,False,The Lavender Hill Mob,1953
+133,133,Marlon Brando,30.0,Blanca,Rusia,False,Julius Caesar,1954
+134,134,Marlon Brando,48.0,Blanca,Estados Unidos,False,Julius Caesar,1954
+135,135,Richard Burton,,,,False,The Robe,1954
+136,136,Montgomery Clift,,,,False,From Here to Eternity,1954
+137,137,William Holden,35.0,Blanca,Estados Unidos,True,Stalag 17,1954
+138,138,Burt Lancaster,46.0,Blanca,Estados Unidos,False,From Here to Eternity,1954
+139,139,Humphrey Bogart,54.0,Blanca,Estados Unidos,False,The Caine Mutiny,1955
+140,140,Marlon Brando,30.0,Blanca,Rusia,True,On the Waterfront,1955
+141,141,Marlon Brando,48.0,Blanca,Estados Unidos,True,On the Waterfront,1955
+142,142,Bing Crosby,41.0,Blanca,Reino Unido,False,The Country Girl,1955
+143,143,James Mason,,,,False,A Star Is Born,1955
+144,144,Dan O'Herlihy,,,,False,Adventures of Robinson Crusoe,1955
+145,145,Ernest Borgnine,42.0,Blanca,Reino Unido,True,Marty,1956
+146,146,James Cagney,42.0,Blanca,Hungría,False,Love Me or Leave Me,1956
+147,147,James Dean,,,,False,East of Eden,1956
+148,148,Frank Sinatra,,,,False,The Man with the Golden Arm,1956
+149,149,Spencer Tracy,36.0,Blanca,Estados Unidos,False,Bad Day at Black Rock,1956
+150,150,Spencer Tracy,37.0,Blanca,Estados Unidos,False,Bad Day at Black Rock,1956
+151,151,Yul Brynner,39.0,Blanca,Reino Unido,True,The King and I,1957
+152,152,James Dean,,,,False,Giant,1957
+153,153,Kirk Douglas,,,,False,Lust for Life,1957
+154,154,Rock Hudson,,,,False,Giant,1957
+155,155,Sir Laurence Olivier,,,,False,Richard III,1957
+156,156,Marlon Brando,30.0,Blanca,Rusia,False,Sayonara,1958
+157,157,Marlon Brando,48.0,Blanca,Estados Unidos,False,Sayonara,1958
+158,158,Anthony Franciosa,,,,False,A Hatful of Rain,1958
+159,159,Alec Guinness,53.0,Blanca,Estados Unidos,True,The Bridge on the River Kwai,1958
+160,160,Charles Laughton,34.0,Blanca,Reino Unido,False,Witness for the Prosecution,1958
+161,161,Anthony Quinn,,,,False,Wild Is the Wind,1958
+162,162,Tony Curtis,,,,False,The Defiant Ones,1959
+163,163,Paul Newman,35.0,Blanca,Estados Unidos,False,Cat on a Hot Tin Roof,1959
+164,164,David Niven,49.0,Blanca,Estados Unidos,True,Separate Tables,1959
+165,165,Sidney Poitier,37.0,Blanca,Reino Unido,False,The Defiant Ones,1959
+166,166,Spencer Tracy,36.0,Blanca,Estados Unidos,False,The Old Man and the Sea,1959
+167,167,Spencer Tracy,37.0,Blanca,Estados Unidos,False,The Old Man and the Sea,1959
+168,168,Laurence Harvey,,,,False,Room at the Top,1960
+169,169,Charlton Heston,36.0,Blanca,Austria,True,Ben-Hur,1960
+170,170,Jack Lemmon,48.0,Blanca,Australia,False,Some Like It Hot,1960
+171,171,Paul Muni,42.0,Blanca,Estados Unidos,False,The Last Angry Man,1960
+172,172,James Stewart,32.0,Blanca,Estados Unidos,False,Anatomy of a Murder,1960
+173,173,Trevor Howard,,,,False,Sons and Lovers,1961
+174,174,Burt Lancaster,46.0,Blanca,Estados Unidos,True,Elmer Gantry,1961
+175,175,Jack Lemmon,48.0,Blanca,Australia,False,The Apartment,1961
+176,176,Laurence Olivier,41.0,Hispano,Puerto Rico,False,The Entertainer,1961
+177,177,Spencer Tracy,36.0,Blanca,Estados Unidos,False,Inherit the Wind,1961
+178,178,Spencer Tracy,37.0,Blanca,Estados Unidos,False,Inherit the Wind,1961
+179,179,Charles Boyer,,,,False,Fanny,1962
+180,180,Paul Newman,35.0,Blanca,Estados Unidos,False,The Hustler,1962
+181,181,Maximilian Schell,41.0,Afroamericana,Estados Unidos,True,Judgment at Nuremberg,1962
+182,182,Spencer Tracy,36.0,Blanca,Estados Unidos,False,Judgment at Nuremberg,1962
+183,183,Spencer Tracy,37.0,Blanca,Estados Unidos,False,Judgment at Nuremberg,1962
+184,184,Stuart Whitman,,,,False,The Mark,1962
+185,185,Burt Lancaster,46.0,Blanca,Estados Unidos,False,Birdman of Alcatraz,1963
+186,186,Jack Lemmon,48.0,Blanca,Australia,False,Days of Wine and Roses,1963
+187,187,Marcello Mastroianni,,,,False,Divorce--Italian Style,1963
+188,188,Peter O'Toole,,,,False,Lawrence of Arabia,1963
+189,189,Gregory Peck,46.0,Blanca,Estados Unidos,True,To Kill a Mockingbird,1963
+190,190,Albert Finney,,,,False,Tom Jones,1964
+191,191,Richard Harris,,,,False,This Sporting Life,1964
+192,192,Rex Harrison,57.0,Blanca,Estados Unidos,False,Cleopatra,1964
+193,193,Paul Newman,35.0,Blanca,Estados Unidos,False,Hud,1964
+194,194,Sidney Poitier,37.0,Blanca,Reino Unido,True,Lilies of the Field,1964
+195,195,Richard Burton,,,,False,Becket,1965
+196,196,Rex Harrison,57.0,Blanca,Estados Unidos,True,My Fair Lady,1965
+197,197,Peter O'Toole,,,,False,Becket,1965
+198,198,Anthony Quinn,,,,False,Zorba the Greek,1965
+199,199,Peter Sellers,,,,False,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1965
+200,200,Richard Burton,,,,False,The Spy Who Came In from the Cold,1966
+201,201,Lee Marvin,49.0,Blanca,Estados Unidos,True,Cat Ballou,1966
+202,202,Laurence Olivier,41.0,Hispano,Puerto Rico,False,Othello,1966
+203,203,Rod Steiger,45.0,Blanca,Estados Unidos,False,The Pawnbroker,1966
+204,204,Oskar Werner,,,,False,Ship of Fools,1966
+205,205,Alan Arkin,,,,False,The Russians Are Coming The Russians Are Coming,1967
+206,206,Richard Burton,,,,False,Who's Afraid of Virginia Woolf?,1967
+207,207,Michael Caine,,,,False,Alfie,1967
+208,208,Steve McQueen,,,,False,The Sand Pebbles,1967
+209,209,Paul Scofield,46.0,Blanca,Estados Unidos,True,A Man for All Seasons,1967
+210,210,Warren Beatty,,,,False,Bonnie and Clyde,1968
+211,211,Dustin Hoffman,37.0,Blanca,Estados Unidos,False,The Graduate,1968
+212,212,Dustin Hoffman,43.0,Blanca,Reino Unido,False,The Graduate,1968
+213,213,Paul Newman,35.0,Blanca,Estados Unidos,False,Cool Hand Luke,1968
+214,214,Rod Steiger,45.0,Blanca,Estados Unidos,True,In the Heat of the Night,1968
+215,215,Spencer Tracy,36.0,Blanca,Estados Unidos,False,Guess Who's Coming to Dinner,1968
+216,216,Spencer Tracy,37.0,Blanca,Estados Unidos,False,Guess Who's Coming to Dinner,1968
+217,217,Alan Arkin,,,,False,The Heart Is a Lonely Hunter,1969
+218,218,Alan Bates,,,,False,The Fixer,1969
+219,219,Ron Moody,,,,False,Oliver!,1969
+220,220,Peter O'Toole,,,,False,The Lion in Winter,1969
+221,221,Cliff Robertson,41.0,Blanca,Estados Unidos,True,Charly,1969
+222,222,Richard Burton,,,,False,Anne of the Thousand Days,1970
+223,223,Dustin Hoffman,37.0,Blanca,Estados Unidos,False,Midnight Cowboy,1970
+224,224,Dustin Hoffman,43.0,Blanca,Reino Unido,False,Midnight Cowboy,1970
+225,225,Peter O'Toole,,,,False,"Goodbye, Mr. Chips",1970
+226,226,Jon Voight,39.0,Blanca,Estados Unidos,False,Midnight Cowboy,1970
+227,227,John Wayne,62.0,Blanca,Estados Unidos,True,True Grit,1970
+228,228,Melvyn Douglas,,,,False,I Never Sang for My Father,1971
+229,229,James Earl Jones,,,,False,The Great White Hope,1971
+230,230,Jack Nicholson,38.0,Blanca,Estados Unidos,False,Five Easy Pieces,1971
+231,231,Jack Nicholson,38.0,Blanca,Estados Unidos,False,Five Easy Pieces,1971
+232,232,Ryan O'Neal,,,,False,Love Story,1971
+233,233,George C. Scott,43.0,Blanca,Estados Unidos,True,Patton,1971
+234,234,Peter Finch,59.0,Blanca,Estados Unidos,False,Sunday Bloody Sunday,1972
+235,235,Gene Hackman,41.0,Blanca,Reino Unido,True,The French Connection,1972
+236,236,Walter Matthau,,,,False,Kotch,1972
+237,237,George C. Scott,43.0,Blanca,Estados Unidos,False,The Hospital,1972
+238,238,Topol,,,,False,Fiddler on the Roof,1972
+239,239,Marlon Brando,30.0,Blanca,Rusia,True,The Godfather,1973
+240,240,Marlon Brando,48.0,Blanca,Estados Unidos,True,The Godfather,1973
+241,241,Michael Caine,,,,False,Sleuth,1973
+242,242,Laurence Olivier,41.0,Hispano,Puerto Rico,False,Sleuth,1973
+243,243,Peter O'Toole,,,,False,The Ruling Class,1973
+244,244,Paul Winfield,,,,False,Sounder,1973
+245,245,Marlon Brando,30.0,Blanca,Rusia,False,Last Tango in Paris,1974
+246,246,Marlon Brando,48.0,Blanca,Estados Unidos,False,Last Tango in Paris,1974
+247,247,Jack Lemmon,48.0,Blanca,Australia,True,Save the Tiger,1974
+248,248,Jack Nicholson,38.0,Blanca,Estados Unidos,False,The Last Detail,1974
+249,249,Jack Nicholson,38.0,Blanca,Estados Unidos,False,The Last Detail,1974
+250,250,Al Pacino,47.0,Afroamericana,Estados Unidos,False,Serpico,1974
+251,251,Robert Redford,,,,False,The Sting,1974
+252,252,Art Carney,55.0,Blanca,Estados Unidos,True,Harry and Tonto,1975
+253,253,Albert Finney,,,,False,Murder on the Orient Express,1975
+254,254,Dustin Hoffman,37.0,Blanca,Estados Unidos,False,Lenny,1975
+255,255,Dustin Hoffman,43.0,Blanca,Reino Unido,False,Lenny,1975
+256,256,Jack Nicholson,38.0,Blanca,Estados Unidos,False,Chinatown,1975
+257,257,Jack Nicholson,38.0,Blanca,Estados Unidos,False,Chinatown,1975
+258,258,Al Pacino,47.0,Afroamericana,Estados Unidos,False,The Godfather Part II,1975
+259,259,Walter Matthau,,,,False,The Sunshine Boys,1976
+260,260,Jack Nicholson,38.0,Blanca,Estados Unidos,True,One Flew over the Cuckoo's Nest,1976
+261,261,Jack Nicholson,38.0,Blanca,Estados Unidos,True,One Flew over the Cuckoo's Nest,1976
+262,262,Al Pacino,47.0,Afroamericana,Estados Unidos,False,Dog Day Afternoon,1976
+263,263,Maximilian Schell,41.0,Afroamericana,Estados Unidos,False,The Man in the Glass Booth,1976
+264,264,James Whitmore,,,,False,"Give 'em Hell, Harry!",1976
+265,265,Robert De Niro,36.0,Blanca,Reino Unido,False,Taxi Driver,1977
+266,266,Peter Finch,59.0,Blanca,Estados Unidos,True,Network,1977
+267,267,Giancarlo Giannini,,,,False,Seven Beauties,1977
+268,268,William Holden,35.0,Blanca,Estados Unidos,False,Network,1977
+269,269,Sylvester Stallone,,,,False,Rocky,1977
+270,270,Woody Allen,,,,False,Annie Hall,1978
+271,271,Richard Burton,,,,False,Equus,1978
+272,272,Richard Dreyfuss,41.0,Blanca,Estados Unidos,True,The Goodbye Girl,1978
+273,273,Marcello Mastroianni,,,,False,A Special Day,1978
+274,274,John Travolta,,,,False,Saturday Night Fever,1978
+275,275,Warren Beatty,,,,False,Heaven Can Wait,1979
+276,276,Gary Busey,,,,False,The Buddy Holly Story,1979
+277,277,Robert De Niro,36.0,Blanca,Reino Unido,False,The Deer Hunter,1979
+278,278,Laurence Olivier,41.0,Hispano,Puerto Rico,False,The Boys from Brazil,1979
+279,279,Jon Voight,39.0,Blanca,Estados Unidos,True,Coming Home,1979
+280,280,Dustin Hoffman,37.0,Blanca,Estados Unidos,True,Kramer vs. Kramer,1980
+281,281,Dustin Hoffman,43.0,Blanca,Reino Unido,True,Kramer vs. Kramer,1980
+282,282,Jack Lemmon,48.0,Blanca,Australia,False,The China Syndrome,1980
+283,283,Al Pacino,47.0,Afroamericana,Estados Unidos,False,...And Justice for All,1980
+284,284,Roy Scheider,,,,False,All That Jazz,1980
+285,285,Peter Sellers,,,,False,Being There,1980
+286,286,Robert De Niro,36.0,Blanca,Reino Unido,True,Raging Bull,1981
+287,287,Robert Duvall,47.0,Blanca,Estados Unidos,False,The Great Santini,1981
+288,288,John Hurt,,,,False,The Elephant Man,1981
+289,289,Jack Lemmon,48.0,Blanca,Australia,False,Tribute,1981
+290,290,Peter O'Toole,,,,False,The Stunt Man,1981
+291,291,Warren Beatty,,,,False,Reds,1982
+292,292,Henry Fonda,76.0,Blanca,Reino Unido,True,On Golden Pond,1982
+293,293,Burt Lancaster,46.0,Blanca,Estados Unidos,False,Atlantic City,1982
+294,294,Dudley Moore,,,,False,Arthur,1982
+295,295,Paul Newman,35.0,Blanca,Estados Unidos,False,Absence of Malice,1982
+296,296,Dustin Hoffman,37.0,Blanca,Estados Unidos,False,Tootsie,1983
+297,297,Dustin Hoffman,43.0,Blanca,Reino Unido,False,Tootsie,1983
+298,298,Ben Kingsley,45.0,Blanca,Estados Unidos,True,Gandhi,1983
+299,299,Jack Lemmon,48.0,Blanca,Australia,False,Missing,1983
+300,300,Paul Newman,35.0,Blanca,Estados Unidos,False,The Verdict,1983
+301,301,Peter O'Toole,,,,False,My Favorite Year,1983
+302,302,Michael Caine,,,,False,Educating Rita,1984
+303,303,Tom Conti,,,,False,"Reuben, Reuben",1984
+304,304,Tom Courtenay,,,,False,The Dresser,1984
+305,305,Robert Duvall,47.0,Blanca,Estados Unidos,True,Tender Mercies,1984
+306,306,Albert Finney,,,,False,The Dresser,1984
+307,307,F. Murray Abraham,46.0,Blanca,Estados Unidos,True,Amadeus,1985
+308,308,Jeff Bridges,41.0,Blanca,Reino Unido,False,Starman,1985
+309,309,Albert Finney,,,,False,Under the Volcano,1985
+310,310,Tom Hulce,,,,False,Amadeus,1985
+311,311,Sam Waterston,,,,False,The Killing Fields,1985
+312,312,Harrison Ford,,,,False,Witness,1986
+313,313,James Garner,,,,False,Murphy's Romance,1986
+314,314,William Hurt,45.0,Blanca,Estados Unidos,True,Kiss of the Spider Woman,1986
+315,315,Jack Nicholson,38.0,Blanca,Estados Unidos,False,Prizzi's Honor,1986
+316,316,Jack Nicholson,38.0,Blanca,Estados Unidos,False,Prizzi's Honor,1986
+317,317,Jon Voight,39.0,Blanca,Estados Unidos,False,Runaway Train,1986
+318,318,Dexter Gordon,,,,False,'Round Midnight,1987
+319,319,Bob Hoskins,,,,False,Mona Lisa,1987
+320,320,William Hurt,45.0,Blanca,Estados Unidos,False,Children of a Lesser God,1987
+321,321,Paul Newman,35.0,Blanca,Estados Unidos,True,The Color of Money,1987
+322,322,James Woods,,,,False,Salvador,1987
+323,323,Michael Douglas,61.0,Blanca,Estados Unidos,True,Wall Street,1988
+324,324,William Hurt,45.0,Blanca,Estados Unidos,False,Broadcast News,1988
+325,325,Marcello Mastroianni,,,,False,Dark Eyes,1988
+326,326,Jack Nicholson,38.0,Blanca,Estados Unidos,False,Ironweed,1988
+327,327,Jack Nicholson,38.0,Blanca,Estados Unidos,False,Ironweed,1988
+328,328,Robin Williams,,,,False,"Good Morning, Vietnam",1988
+329,329,Gene Hackman,41.0,Blanca,Reino Unido,False,Mississippi Burning,1989
+330,330,Tom Hanks,55.0,Blanca,Nueva Zelanda,False,Big,1989
+331,331,Tom Hanks,63.0,Blanca,Estados Unidos,False,Big,1989
+332,332,Dustin Hoffman,37.0,Blanca,Estados Unidos,True,Rain Man,1989
+333,333,Dustin Hoffman,43.0,Blanca,Reino Unido,True,Rain Man,1989
+334,334,Edward James Olmos,,,,False,Stand and Deliver,1989
+335,335,Max von Sydow,,,,False,Pelle the Conqueror,1989
+336,336,Kenneth Branagh,,,,False,Henry V,1990
+337,337,Tom Cruise,,,,False,Born on the Fourth of July,1990
+338,338,Daniel Day Lewis,,,,True,My Left Foot,1990
+339,339,Morgan Freeman,,,,False,Driving Miss Daisy,1990
+340,340,Robin Williams,,,,False,Dead Poets Society,1990
+341,341,Kevin Costner,,,,False,Dances With Wolves,1991
+342,342,Robert De Niro,36.0,Blanca,Reino Unido,False,Awakenings,1991
+343,343,Gerard Depardieu,,,,False,Cyrano de Bergerac,1991
+344,344,Richard Harris,,,,False,The Field,1991
+345,345,Jeremy Irons,48.0,Blanca,Estados Unidos,True,Reversal of Fortune,1991
+346,346,Warren Beatty,,,,False,Bugsy,1992
+347,347,Robert De Niro,36.0,Blanca,Reino Unido,False,Cape Fear,1992
+348,348,Anthony Hopkins,45.0,Blanca,Estados Unidos,True,The Silence of the Lambs,1992
+349,349,Anthony Hopkins,62.0,Blanca,Estados Unidos,True,The Silence of the Lambs,1992
+350,350,Nick Nolte,,,,False,The Prince of Tides,1992
+351,351,Robin Williams,,,,False,The Fisher King,1992
+352,352,Robert Downey Jr.,,,,False,Chaplin,1993
+353,353,Clint Eastwood,,,,False,Unforgiven,1993
+354,354,Al Pacino,47.0,Afroamericana,Estados Unidos,True,Scent of a Woman,1993
+355,355,Stephen Rea,,,,False,The Crying Game,1993
+356,356,Denzel Washington,30.0,Blanca,Estados Unidos,False,Malcolm X,1993
+357,357,Daniel Day-Lewis,51.0,Blanca,Reino Unido,False,In the Name of the Father,1994
+358,358,Daniel Day-Lewis,47.0,Blanca,Estados Unidos,False,In the Name of the Father,1994
+359,359,Daniel Day-Lewis,50.0,Afroamericana,Estados Unidos,False,In the Name of the Father,1994
+360,360,Laurence Fishburne,,,,False,What's Love Got to Do with It,1994
+361,361,Tom Hanks,55.0,Blanca,Nueva Zelanda,True,Philadelphia,1994
+362,362,Tom Hanks,63.0,Blanca,Estados Unidos,True,Philadelphia,1994
+363,363,Anthony Hopkins,45.0,Blanca,Estados Unidos,False,The Remains of the Day,1994
+364,364,Anthony Hopkins,62.0,Blanca,Estados Unidos,False,The Remains of the Day,1994
+365,365,Liam Neeson,,,,False,Schindler's List,1994
+366,366,Morgan Freeman,,,,False,The Shawshank Redemption,1995
+367,367,Tom Hanks,55.0,Blanca,Nueva Zelanda,True,Forrest Gump,1995
+368,368,Tom Hanks,63.0,Blanca,Estados Unidos,True,Forrest Gump,1995
+369,369,Nigel Hawthorne,,,,False,The Madness of King George,1995
+370,370,Paul Newman,35.0,Blanca,Estados Unidos,False,Nobody's Fool,1995
+371,371,John Travolta,,,,False,Pulp Fiction,1995
+372,372,Nicolas Cage,39.0,Afroamericana,Estados Unidos,True,Leaving Las Vegas,1996
+373,373,Richard Dreyfuss,41.0,Blanca,Estados Unidos,False,Mr. Holland's Opus,1996
+374,374,Anthony Hopkins,45.0,Blanca,Estados Unidos,False,Nixon,1996
+375,375,Anthony Hopkins,62.0,Blanca,Estados Unidos,False,Nixon,1996
+376,376,Sean Penn,37.0,Blanca,Francia,False,Dead Man Walking,1996
+377,377,Sean Penn,39.0,Blanca,Reino Unido,False,Dead Man Walking,1996
+378,378,Massimo Troisi,,,,False,The Postman (Il Postino),1996
+379,379,Tom Cruise,,,,False,Jerry Maguire,1997
+380,380,Ralph Fiennes,,,,False,The English Patient,1997
+381,381,Woody Harrelson,,,,False,The People vs. Larry Flynt,1997
+382,382,Geoffrey Rush,41.0,Blanca,Estados Unidos,True,Shine,1997
+383,383,Billy Bob Thornton,,,,False,Sling Blade,1997
+384,384,Matt Damon,,,,False,Good Will Hunting,1998
+385,385,Robert Duvall,47.0,Blanca,Estados Unidos,False,The Apostle,1998
+386,386,Peter Fonda,,,,False,Ulee's Gold,1998
+387,387,Dustin Hoffman,37.0,Blanca,Estados Unidos,False,Wag the Dog,1998
+388,388,Dustin Hoffman,43.0,Blanca,Reino Unido,False,Wag the Dog,1998
+389,389,Jack Nicholson,38.0,Blanca,Estados Unidos,True,As Good as It Gets,1998
+390,390,Jack Nicholson,38.0,Blanca,Estados Unidos,True,As Good as It Gets,1998
+391,391,Roberto Benigni,37.0,Blanca,Estados Unidos,True,Life Is Beautiful,1999
+392,392,Tom Hanks,55.0,Blanca,Nueva Zelanda,False,Saving Private Ryan,1999
+393,393,Tom Hanks,63.0,Blanca,Estados Unidos,False,Saving Private Ryan,1999
+394,394,Ian McKellen,,,,False,Gods and Monsters,1999
+395,395,Nick Nolte,,,,False,Affliction,1999
+396,396,Edward Norton,,,,False,American History X,1999
+397,397,Russell Crowe,41.0,Blanca,Reino Unido,False,The Insider,2000
+398,398,Richard Farnsworth,,,,False,The Straight Story,2000
+399,399,Sean Penn,37.0,Blanca,Francia,False,Sweet and Lowdown,2000
+400,400,Sean Penn,39.0,Blanca,Reino Unido,False,Sweet and Lowdown,2000
+401,401,Kevin Spacey,44.0,Blanca,Estados Unidos,True,American Beauty,2000
+402,402,Denzel Washington,30.0,Blanca,Estados Unidos,False,The Hurricane,2000
+403,403,Javier Bardem,,,,False,Before Night Falls,2001
+404,404,Russell Crowe,41.0,Blanca,Reino Unido,True,Gladiator,2001
+405,405,Tom Hanks,55.0,Blanca,Nueva Zelanda,False,Cast Away,2001
+406,406,Tom Hanks,63.0,Blanca,Estados Unidos,False,Cast Away,2001
+407,407,Ed Harris,,,,False,Pollock,2001
+408,408,Geoffrey Rush,41.0,Blanca,Estados Unidos,False,Quills,2001
+409,409,Russell Crowe,41.0,Blanca,Reino Unido,False,A Beautiful Mind,2002
+410,410,Sean Penn,37.0,Blanca,Francia,False,I Am Sam,2002
+411,411,Sean Penn,39.0,Blanca,Reino Unido,False,I Am Sam,2002
+412,412,Will Smith,45.0,Afroamericano,Estados Unidos,False,Ali,2002
+413,413,Denzel Washington,30.0,Blanca,Estados Unidos,True,Training Day,2002
+414,414,Tom Wilkinson,,,,False,In the Bedroom,2002
+415,415,Adrien Brody,43.0,Blanca,Reino Unido,True,The Pianist,2003
+416,416,Nicolas Cage,39.0,Afroamericana,Estados Unidos,False,Adaptation,2003
+417,417,Michael Caine,,,,False,The Quiet American,2003
+418,418,Daniel Day-Lewis,51.0,Blanca,Reino Unido,False,Gangs of New York,2003
+419,419,Daniel Day-Lewis,47.0,Blanca,Estados Unidos,False,Gangs of New York,2003
+420,420,Daniel Day-Lewis,50.0,Afroamericana,Estados Unidos,False,Gangs of New York,2003
+421,421,Jack Nicholson,38.0,Blanca,Estados Unidos,False,About Schmidt,2003
+422,422,Jack Nicholson,38.0,Blanca,Estados Unidos,False,About Schmidt,2003
+423,423,Johnny Depp,,,,False,Pirates of the Caribbean: The Curse of the Black Pearl,2004
+424,424,Ben Kingsley,45.0,Blanca,Estados Unidos,False,House of Sand and Fog,2004
+425,425,Jude Law,,,,False,Cold Mountain,2004
+426,426,Bill Murray,,,,False,Lost in Translation,2004
+427,427,Sean Penn,37.0,Blanca,Francia,True,Mystic River,2004
+428,428,Sean Penn,39.0,Blanca,Reino Unido,True,Mystic River,2004
+429,429,Don Cheadle,,,,False,Hotel Rwanda,2005
+430,430,Johnny Depp,,,,False,Finding Neverland,2005
+431,431,Leonardo DiCaprio,44.0,Blanca,Reino Unido,False,The Aviator,2005
+432,432,Clint Eastwood,,,,False,Million Dollar Baby,2005
+433,433,Jamie Foxx,46.0,Blanca,Reino Unido,True,Ray,2005
+434,434,Philip Seymour Hoffman,37.0,Blanca,Estados Unidos,True,Capote,2006
+435,435,Terrence Howard,,,,False,Hustle & Flow,2006
+436,436,Heath Ledger,,,,False,Brokeback Mountain,2006
+437,437,Joaquin Phoenix,44.0,Blanca,,False,Walk the Line,2006
+438,438,David Strathairn,,,,False,"Good Night, and Good Luck.",2006
+439,439,Leonardo DiCaprio,44.0,Blanca,Reino Unido,False,Blood Diamond,2007
+440,440,Ryan Gosling,,,,False,Half Nelson,2007
+441,441,Peter O'Toole,,,,False,Venus,2007
+442,442,Will Smith,45.0,Afroamericano,Estados Unidos,False,The Pursuit of Happyness,2007
+443,443,Forest Whitaker,45.0,Blanca,Estados Unidos,True,The Last King of Scotland,2007
+444,444,George Clooney,,,,False,Michael Clayton,2008
+445,445,Daniel Day-Lewis,51.0,Blanca,Reino Unido,True,There Will Be Blood,2008
+446,446,Daniel Day-Lewis,47.0,Blanca,Estados Unidos,True,There Will Be Blood,2008
+447,447,Daniel Day-Lewis,50.0,Afroamericana,Estados Unidos,True,There Will Be Blood,2008
+448,448,Johnny Depp,,,,False,Sweeney Todd The Demon Barber of Fleet Street,2008
+449,449,Tommy Lee Jones,,,,False,In the Valley of Elah,2008
+450,450,Viggo Mortensen,,,,False,Eastern Promises,2008
+451,451,Richard Jenkins,,,,False,The Visitor,2009
+452,452,Frank Langella,,,,False,Frost/Nixon,2009
+453,453,Sean Penn,37.0,Blanca,Francia,True,Milk,2009
+454,454,Sean Penn,39.0,Blanca,Reino Unido,True,Milk,2009
+455,455,Brad Pitt,,,,False,The Curious Case of Benjamin Button,2009
+456,456,Mickey Rourke,,,,False,The Wrestler,2009
+457,457,Jeff Bridges,41.0,Blanca,Reino Unido,True,Crazy Heart,2010
+458,458,George Clooney,,,,False,Up in the Air,2010
+459,459,Colin Firth,36.0,Blanca,Estados Unidos,False,A Single Man,2010
+460,460,Morgan Freeman,,,,False,Invictus,2010
+461,461,Jeremy Renner,,,,False,The Hurt Locker,2010
+462,462,Javier Bardem,,,,False,Biutiful,2011
+463,463,Jeff Bridges,41.0,Blanca,Reino Unido,False,True Grit,2011
+464,464,Jesse Eisenberg,,,,False,The Social Network,2011
+465,465,Colin Firth,36.0,Blanca,Estados Unidos,True,The King's Speech,2011
+466,466,James Franco,,,,False,127 Hours,2011
+467,467,Demián Bichir,,,,False,A Better Life,2012
+468,468,George Clooney,,,,False,The Descendants,2012
+469,469,Jean Dujardin,62.0,Blanca,Estados Unidos,True,The Artist,2012
+470,470,Gary Oldman,33.0,Blanca,Irlanda,False,Tinker Tailor Soldier Spy,2012
+471,471,Brad Pitt,,,,False,Moneyball,2012
+472,472,Bradley Cooper,,,,False,Silver Linings Playbook,2013
+473,473,Daniel Day-Lewis,51.0,Blanca,Reino Unido,True,Lincoln,2013
+474,474,Daniel Day-Lewis,47.0,Blanca,Estados Unidos,True,Lincoln,2013
+475,475,Daniel Day-Lewis,50.0,Afroamericana,Estados Unidos,True,Lincoln,2013
+476,476,Hugh Jackman,,,,False,Les Misérables,2013
+477,477,Joaquin Phoenix,44.0,Blanca,,False,The Master,2013
+478,478,Denzel Washington,30.0,Blanca,Estados Unidos,False,Flight,2013
+479,479,Christian Bale,,,,False,American Hustle,2014
+480,480,Bruce Dern,,,,False,Nebraska,2014
+481,481,Leonardo DiCaprio,44.0,Blanca,Reino Unido,False,The Wolf of Wall Street,2014
+482,482,Chiwetel Ejiofor,,,,False,12 Years a Slave,2014
+483,483,Matthew McConaughey,43.0,Blanca,Estados Unidos,True,Dallas Buyers Club,2014
+484,484,Steve Carell,,,,False,Foxcatcher,2015
+485,485,Bradley Cooper,,,,False,American Sniper,2015
+486,486,Benedict Cumberbatch,,,,False,The Imitation Game,2015
+487,487,Michael Keaton,,,,False,Birdman or (The Unexpected Virtue of Ignorance),2015
+488,488,Eddie Redmayne,55.0,Blanca,Estados Unidos,True,The Theory of Everything,2015
+489,489,Bryan Cranston,,,,False,Trumbo,2016
+490,490,Matt Damon,,,,False,The Martian,2016
+491,491,Leonardo DiCaprio,44.0,Blanca,Reino Unido,True,The Revenant,2016
+492,492,Michael Fassbender,,,,False,Steve Jobs,2016
+493,493,Eddie Redmayne,55.0,Blanca,Estados Unidos,False,The Danish Girl,2016
+494,494,Casey Affleck,41.0,Blanca,Irlanda,True,Manchester by the Sea,2017
+495,495,Andrew Garfield,,,,False,Hacksaw Ridge,2017
+496,496,Ryan Gosling,,,,False,La La Land,2017
+497,497,Viggo Mortensen,,,,False,Captain Fantastic,2017
+498,498,Denzel Washington,30.0,Blanca,Estados Unidos,False,Fences,2017
+499,499,Timothée Chalamet,,,,False,Call Me by Your Name,2018
+500,500,Daniel Day-Lewis,51.0,Blanca,Reino Unido,False,Phantom Thread,2018
+501,501,Daniel Day-Lewis,47.0,Blanca,Estados Unidos,False,Phantom Thread,2018
+502,502,Daniel Day-Lewis,50.0,Afroamericana,Estados Unidos,False,Phantom Thread,2018
+503,503,Daniel Kaluuya,,,,False,Get Out,2018
+504,504,Gary Oldman,33.0,Blanca,Irlanda,True,Darkest Hour,2018
+505,505,Denzel Washington,30.0,Blanca,Estados Unidos,False,"Roman J. Israel, Esq.",2018
+506,506,Christian Bale,,,,False,Vice,2019
+507,507,Bradley Cooper,,,,False,A Star Is Born,2019
+508,508,Willem Dafoe,,,,False,At Eternity's Gate,2019
+509,509,Rami Malek,41.0,Afroamericana,Estados Unidos,True,Bohemian Rhapsody,2019
+510,510,Viggo Mortensen,,,,False,Green Book,2019
+511,511,Antonio Banderas,,,,False,Pain and Glory,2020
+512,512,Leonardo DiCaprio,44.0,Blanca,Reino Unido,False,Once upon a Time...in Hollywood,2020
+513,513,Adam Driver,,,,False,Marriage Story,2020
+514,514,Joaquin Phoenix,44.0,Blanca,,True,Joker,2020
+515,515,Jonathan Pryce,,,,False,The Two Popes,2020
+516,516,Riz Ahmed,,,,False,Sound of Metal,2021
+517,517,Chadwick Boseman,,,,False,Ma Rainey's Black Bottom,2021
+518,518,Anthony Hopkins,45.0,Blanca,Estados Unidos,True,The Father,2021
+519,519,Anthony Hopkins,62.0,Blanca,Estados Unidos,True,The Father,2021
+520,520,Gary Oldman,33.0,Blanca,Irlanda,False,Mank,2021
+521,521,Steven Yeun,,,,False,Minari,2021
+522,522,Javier Bardem,,,,False,Being the Ricardos,2022
+523,523,Benedict Cumberbatch,,,,False,The Power of the Dog,2022
+524,524,Andrew Garfield,,,,False,"tick, tick...BOOM!",2022
+525,525,Will Smith,45.0,Afroamericano,Estados Unidos,True,King Richard,2022
+526,526,Denzel Washington,30.0,Blanca,Estados Unidos,False,The Tragedy of Macbeth,2022
+527,527,Austin Butler,,,,False,Elvis,2023
+528,528,Colin Farrell,46.0,Blanca,Irlanda,False,The Banshees of Inisherin,2023
+529,529,Brendan Fraser,41.0,Blanca,Estados Unidos,True,The Whale,2023
+530,530,Paul Mescal,,,,False,Aftersun,2023
+531,531,Bill Nighy,,,,False,Living,2023
+532,532,Bradley Cooper,,,,False,Maestro,2024
+533,533,Colman Domingo,,,,False,Rustin,2024
+534,534,Paul Giamatti,,,,False,The Holdovers,2024
+535,535,Cillian Murphy,37.0,Blanca,Irlanda,True,Oppenheimer,2024
+536,536,Jeffrey Wright,,,,False,American Fiction,2024
