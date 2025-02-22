@@ -39,6 +39,10 @@ Para la realización de este proyecto, hemos utilizado datos de distintos tipos:
 
 ![Nacionalidad](img/nacionalidad.png)
 
+### Histórico de rentabilidad
+
+![Taquilla y Presupuesto](img\rentabilidad_anual.png)
+
 ### Relación entre Taquilla y Presupuesto
 
 ![Taquilla y Presupuesto](img/taquilla_presupuesto.png)
