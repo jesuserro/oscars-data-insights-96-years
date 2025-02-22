@@ -29,20 +29,20 @@ Para la realización de este proyecto, hemos utilizado datos de distintos tipos:
 
 ### Distribución de Edades de los Actores
 
-![Distribución de Edades](distribucion_edades_actores.png)
+![Distribución de Edades](img/distribucion_edades_actores.png)
 
 ### Porcentajes de Etnia
 
-![Porcentajes de Etnia](etnia_porcentajes.png)
+![Porcentajes de Etnia](img/etnia_porcentajes.png)
 
 ### Nacionalidad de los Actores
 
-![Nacionalidad](nacionalidad.png)
+![Nacionalidad](img/nacionalidad.png)
 
 ### Relación entre Taquilla y Presupuesto
 
-![Taquilla y Presupuesto](taquilla_presupuesto.png)
+![Taquilla y Presupuesto](img/taquilla_presupuesto.png)
 
 ### Top 10 Actores con Más Premios
 
-![Top 10 Actores](top10_actores.png)
+![Top 10 Actores](img/top10_actores.png)
