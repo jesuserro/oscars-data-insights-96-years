@@ -33,7 +33,7 @@ Para la realización de este proyecto, hemos utilizado datos de distintos tipos:
 
 ### Histórico de Rentabilidad
 
-![Taquilla y Presupuesto](img/rentabilidad_anual.png)
+![THistórico de Rentabilidad](img/rentabilidad_anual.png)
 
 ### Relación entre Taquilla y Presupuesto
 
@@ -42,6 +42,10 @@ Para la realización de este proyecto, hemos utilizado datos de distintos tipos:
 ### Distribución de Edades de los Actores
 
 ![Distribución de Edades](img/distribucion_edades_actores.png)
+
+### Histórico Actores por raza y edad
+
+![Histórico Actores](img/actores.png)
 
 ### Porcentajes de Etnia
 
