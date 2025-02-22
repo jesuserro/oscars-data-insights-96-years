@@ -1,5 +1,5 @@
 
-# Proyecto de análisis sobre datos cinematográficos
+# Proyecto de análisis de datos cinematográficos
 
 Proyecto colaborativo de la tercera semana del bootcamp de Ironhack.
 
