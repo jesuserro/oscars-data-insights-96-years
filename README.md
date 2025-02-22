@@ -31,7 +31,7 @@ Para la realización de este proyecto, hemos utilizado datos de distintos tipos:
 
 ![Top 10 Actores](img/top10_actores.png)
 
-### Histórico de rentabilidad
+### Histórico de Rentabilidad
 
 ![Taquilla y Presupuesto](img/rentabilidad_anual.png)
 
