@@ -27,6 +27,18 @@ Para la realización de este proyecto, hemos utilizado datos de distintos tipos:
 
 ## Resultados Clave
 
+### Top 10 Actores con Más Premios
+
+![Top 10 Actores](img/top10_actores.png)
+
+### Histórico de rentabilidad
+
+![Taquilla y Presupuesto](img/rentabilidad_anual.png)
+
+### Relación entre Taquilla y Presupuesto
+
+![Taquilla y Presupuesto](img/taquilla_presupuesto.png)
+
 ### Distribución de Edades de los Actores
 
 ![Distribución de Edades](img/distribucion_edades_actores.png)
@@ -38,15 +50,3 @@ Para la realización de este proyecto, hemos utilizado datos de distintos tipos:
 ### Nacionalidad de los Actores
 
 ![Nacionalidad](img/nacionalidad.png)
-
-### Histórico de rentabilidad
-
-![Taquilla y Presupuesto](img/rentabilidad_anual.png)
-
-### Relación entre Taquilla y Presupuesto
-
-![Taquilla y Presupuesto](img/taquilla_presupuesto.png)
-
-### Top 10 Actores con Más Premios
-
-![Top 10 Actores](img/top10_actores.png)
