@@ -35,7 +35,7 @@ Para la realización de este proyecto, hemos utilizado datos de distintos tipos:
 
 ![THistórico de Rentabilidad](img/rentabilidad_anual.png)
 
-### Relación entre Taquilla y Presupuesto
+### Rentabilidad: Relación Taquilla/Presupuesto
 
 ![Taquilla y Presupuesto](img/taquilla_presupuesto.png)
 
