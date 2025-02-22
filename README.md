@@ -43,7 +43,7 @@ Para la realización de este proyecto, hemos utilizado datos de distintos tipos:
 
 ![Distribución de Edades](img/distribucion_edades_actores.png)
 
-### Histórico Actores por raza y edad
+### Histórico Actores por Raza y Edad
 
 ![Histórico Actores](img/actores.png)
 
