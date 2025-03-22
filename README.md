@@ -1,56 +1,55 @@
+# 🎬 Cinematic Data Analysis Project
 
-# Proyecto de análisis de datos cinematográficos
+Collaborative project of the third week of the Ironhack bootcamp.
 
-Proyecto colaborativo de la tercera semana del bootcamp de Ironhack.
+## 🎯 Objective
 
-## Objetivo
+This project is aimed at creating a guide for actors awarded the Oscar. We will rely on a combination of different types of data (CSV, our own dataframes, and web scraping) to analyze the factors that may influence winning an Oscar. The analyses will focus on:
 
-Este proyecto está orientado a la creación de una guía para actores galardonados con el premio Oscar. Nos basaremos en una combinación de datos de distintos tipos (CSV, dataframes propios y web scraping) para analizar los factores que pueden influir en la obtención de un Oscar. Los análisis se centrarán en:
+- 🌍 Nationality
+- 🏳️ Race
+- 🎂 Age
+- 🎥 Director of the most awarded movies
+- 💰 Movie budget
+- 🎟️ Box office percentage
 
-- Nacionalidad
-- Raza
-- Edad
-- Director de las películas más galardonadas
-- Presupuesto de la película
-- Porcentaje de taquilla
+With these conclusions, we can offer a guide for future actors, providing them with guidelines based on the analysis from the first gala year in 1928 to the last in 2024.
 
-Con estas conclusiones, podemos ofrecer una guía para futuros actores, brindándoles directrices basadas en el análisis desde el primer año de gala en 1928 hasta el último en 2024.
+## 📊 General Analysis
 
-## Análisis Generales
-
-Para la realización de este proyecto, hemos utilizado datos de distintos tipos: CSV, EXCEL y Web-Scraping. Los archivos de datos incluyen:
+For this project, we have used different types of data: CSV, EXCEL, and Web-Scraping. The data files include:
 
 - `data/oscars3.csv`
 - `data/actor_año_presupuesto_taquilla.ods`
 - `data/imdb_movies_budgets.csv`
 - `data/imdb_top1000_highest_grossing.csv`
 
-## Resultados Clave
+## 🏆 Key Results
 
-### Top 10 Actores con Más Premios
+### 🥇 Top 10 Actors with Most Awards
 
-![Top 10 Actores](img/top10_actores.png)
+![Top 10 Actors](img/top10_actores.png)
 
-### Histórico de Rentabilidad
+### 📈 Profitability History
 
-![THistórico de Rentabilidad](img/rentabilidad_anual.png)
+![Profitability History](img/rentabilidad_anual.png)
 
-### Rentabilidad: Relación Taquilla/Presupuesto
+### 💸 Profitability: Box Office/Budget Ratio
 
-![Taquilla y Presupuesto](img/taquilla_presupuesto.png)
+![Box Office and Budget](img/taquilla_presupuesto.png)
 
-### Distribución de Edades de los Actores
+### 👶👴 Age Distribution of Actors
 
-![Distribución de Edades](img/distribucion_edades_actores.png)
+![Age Distribution](img/distribucion_edades_actores.png)
 
-### Histórico Actores por Raza y Edad
+### 🧑🏽‍🤝‍🧑🏿 Historical Actors by Race and Age
 
-![Histórico Actores](img/actores.png)
+![Historical Actors](img/actores.png)
 
-### Porcentajes de Etnia
+### 📊 Ethnicity Percentages
 
-![Porcentajes de Etnia](img/etnia_porcentajes.png)
+![Ethnicity Percentages](img/etnia_porcentajes.png)
 
-### Nacionalidad de los Actores
+### 🌎 Nationality of Actors
 
-![Nacionalidad](img/nacionalidad.png)
+![Nationality](img/nacionalidad.png)
